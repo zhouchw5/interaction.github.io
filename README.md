@@ -9,7 +9,7 @@ Zhou Mr.Chuwei
 
 --------------------         
 
-SYSU is a tier-one university in China.  
+SYSU is a tier-one university in China, located by the Zhujiang River in Guangzhou, rooted near the Canton Tower.    
          
          
 ## Memorable Scenes 
