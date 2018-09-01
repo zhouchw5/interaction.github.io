@@ -1,6 +1,14 @@
 # Before New Start           
            
-Five years have passed since I met my Sun Yat-Sen University, my alma mater for the first time. The most magical but desperate thing is that time keeps on its pace constantly flying to distance. Recently my best junior sister apprentice, Tsuiki, has started her new journey in Sun Yat-Sen University, with the similar curiosity about the future, which would also appear in my memory everytime when I restart my career in SYSU in my mind. This letter is being written for myself in some sense, as an emotional interface for                
+Five years have passed since I met my Sun Yat-Sen University, my alma mater for the first time. The most magical but desperate thing is that time keeps on its pace constantly flying to distance. Recently my best junior sister apprentice, Tsuiki, has started her new journey in Sun Yat-Sen University, with the similar curiosity about the future, which would also appear in my memory everytime when I restart my career in SYSU in my mind. This letter is being written for myself in some sense, as an emotional interface for self-talking, also a mechanical string to keep me in an appropriate distance from my memory, far enough for not being burn by my emotion,    
+         
+Yours,         
+Zhou Mr.Chuwei          
+2018.09.01      
+
+--------------------         
+
+
          
          
 ## 
