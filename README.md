@@ -21,3 +21,5 @@ The most memorable moment is that I walked in the 林荫小径 back to my domito
 
 ## My career in International Division of Theoretical Physics 
 傅里叶变换的思想基本常用，几乎每一门课程的开始都是以傅里叶变换作为基础，量子力学的表象变换，
+
+我需要一些告别，和我的专业，和我在SYSU的时光，和我曾经相当一名伟大物理学家的梦想。
