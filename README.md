@@ -9,7 +9,7 @@ Zhou Mr.Chuwei
 
 --------------------         
 
-SYSU is a tier-one university in China, located by the Zhujiang River in Guangzhou, rooted near the Canton Tower. A green blancket laying down in the centre of the prosperous 就像一块绿色大毯子铺在一个极其繁华的大都市中央。       
+SYSU is a tier-one university in China, located by the Zhujiang River in Guangzhou, rooted near the Canton Tower. Magically SYSU could always A green blancket laying down in the centre of the prosperous 就像一块绿色大毯子铺在一个极其繁华的大都市中央。       
 
 ![panorama](https://github.com/zhouchw5/interaction.github.io/blob/Life-in-SYSU/panorama.jpg)          
 
