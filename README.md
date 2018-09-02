@@ -16,7 +16,7 @@ SYSU is a tier-one university in China, located by the Zhujiang River in Guangzh
          
          
 ## Memorable Scenes_@Zhou Mr.Chuwei 
-As the praise for everyday's busy, I loved to have circles of jogging around the Zhujiang River. The night running witnessed the most beautiful nightscape in Guangzhou, refreshing my physical and mental perception. The eve running painted the transition between day and night, creating beauty from vague, with a decreasing frame number in your eye.    
+As the praise for everyday's busy, I loved to have circles of jogging around the Zhujiang River. The night running witnessed the most beautiful nightscape in Guangzhou, refreshing my physical and mental perception. The eve running painted the transition between day and night, creating beauty from vague, with a decreasing frame number in my eye.    
 
 The most memorable moment is that I walked in the 林荫小径 back to my domitory after studying for a whole day, 背着书包盛着我一天的知识和时光，thinking about some mathematics or physics problems like imagining another way to derive the covariant recurrence formula of Christoffel Symbol based on geometrical characteristics of 协变导数, like 毕业论文的一些知识。
 
