@@ -14,7 +14,8 @@ SYSU is a tier-one university in China, located by the Zhujiang River in Guangzh
 ![panorama](https://github.com/zhouchw5/interaction.github.io/blob/Life-in-SYSU/panorama.jpg)          
 &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;_Airscape on half of SYSU in the certer of Guangzhou, from VR perspective_        
             
-If you wanna taste the beauty, stay distant as a mere spectator.              
+If you wanna taste the beauty, stay distant as a mere spectator. I gradually tend to agree with this (maybe the comfort for parting grief). Besides the 更全面的 beauty appreciation, only when you leave your alma mater for a while and work in actual scenarios, can you find that your alma mater has lived in your mind, molding your behaviors and your thinking framework.  
+
 
          
          
