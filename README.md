@@ -12,7 +12,8 @@ Zhou Mr.Chuwei
 SYSU is a tier-one university in China, located by the Zhujiang River in Guangzhou, rooted near the Canton Tower. Magically my SYSU, a fount of wisdom and a southern mecca for knowledge-cravers, could always maintain its unique and independent role in the hustle and bustle , just like an abrupt green blancket laying down in the centre of the prosperous city.                  
 
 ![panorama](https://github.com/zhouchw5/interaction.github.io/blob/Life-in-SYSU/panorama.jpg)          
-&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; _Airscape on half of SYSU in the certer of Guangzhou, from VR perspective_
+&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;_Airscape on half of SYSU in the certer of Guangzhou, from VR perspective_             
+
          
          
 ## Memorable Scenes_@Zhou Mr.Chuwei 
