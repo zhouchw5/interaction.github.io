@@ -25,7 +25,7 @@ All that beauty and four years' journey with the academic utopia, may forever st
          
 ## Memorable Scenes_@Zhou Mr.Chuwei 
 As the reward for everyday's busy, I loved to have circles of jogging around the Zhujiang River. The night running witnessed the most beautiful nightscape in Guangzhou, refreshing my physical and mental perception. The eve running painted the transition between day and night, creating beauty from vague, with a decreasing frame number in my eye.             
-!(runningmap)[https://github.com/zhouchw5/interaction.github.io/blob/Life-in-SYSU/running_map.jpg]                   
+![runningmap](https://github.com/zhouchw5/interaction.github.io/blob/Life-in-SYSU/running_map.jpg)                          
 &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;_My Relaxing Circle around Zhujiang River_        
 
 The most memorable moment is that I walked in the 林荫小径 back to my domitory after studying for a whole day, 背着书包盛着我一天的知识和时光，thinking about some mathematics or physics problems like imagining another way to derive the covariant recurrence formula of Christoffel Symbol based on geometrical characteristics of 协变导数, like 毕业论文的一些知识。
