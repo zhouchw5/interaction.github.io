@@ -36,7 +36,7 @@ All that beauty and four years' journey with the academic utopia, may forever st
                  
                      
                      
-Walking on the shady path, surrounded by a wide profusion of trees, I loved this individual leisure moment after a whole day's study and before going back to my dormitory, carrying the school bag containing a whole day's time and knowledge，thinking about some mathematics or physics problems like imagining another way to derive the covariant recurrence formula of Christoffel Symbol based on geometrical characteristics of 协变导数, like 毕业论文的一些知识。             
+Walking on the shady path, surrounded by a wide profusion of trees, I loved this individual leisure moment after a whole day's study and before going back to my dormitory, carrying the school bag containing a whole day's time and knowledge，thinking about some mathematics or physics problems like imagining another way to derive the covariant recurrence formula of Christoffel Symbol based on geometrical characteristics of covariant derivative, like              
 ![path](https://github.com/zhouchw5/interaction.github.io/blob/Life-in-SYSU/path.jpg)
 
 ## My career in International Division of Theoretical Physics 
