@@ -32,7 +32,7 @@ All that beauty and four years' journey with the academic utopia, may forever st
 &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;_The Moon's Revolution around the Canton Tower Slower than Mine_             
        
 ![Zhujiang Newtown](https://github.com/zhouchw5/interaction.github.io/blob/Life-in-SYSU/Zhujiang%20Newtown.jpg)               
-&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;_Opposite to the Canton Tower, The outlook of the Venue for the Opening Ceremony of Guangzhou Asian Games_         
+&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;_Opposite to the Canton Tower, The outlook of the Venue for the Opening Ceremony of Guangzhou Asian Games_         
 
 The most memorable moment is that I walked in the 林荫小径 back to my domitory after studying for a whole day, 背着书包盛着我一天的知识和时光，thinking about some mathematics or physics problems like imagining another way to derive the covariant recurrence formula of Christoffel Symbol based on geometrical characteristics of 协变导数, like 毕业论文的一些知识。
 
