@@ -41,13 +41,9 @@ All that beauty and four years' journey with the academic utopia, may forever st
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;_Some SYSUers Walking on My Lane_          
            
 - She had just finished a boring seminar in the School of Management when I first met her.  
-- We had just finished seeing a boring movie when I last met her.  
-- Walking on the S-shaped lane in the campus,  
+- We had just finished seeing a boring movie when I last kept her company.  
+- Walking on the S-shaped lane in the campus,   
 
-- She had just finished a boring seminar in the School of Management when I first met her.
-- We had just finished seeing a boring movie when I last met her.
-- Walking on the S-shaped lane in the campus,
-               
 
 ## My career in International Division of Theoretical Physics 
 傅里叶变换的思想基本常用，几乎每一门课程的开始都是以傅里叶变换作为基础，量子力学的表象变换，
