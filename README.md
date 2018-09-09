@@ -38,7 +38,7 @@ All that beauty and four years' journey with the academic utopia, may forever st
                      
 Walking on the shady path, surrounded by a wide profusion of trees, I loved this individual leisure moment after a whole day's study and before going back to my dormitory, carrying the school bag containing a whole day's time and knowledge，thinking about some mathematics or physics problems like imagining another way to derive the covariant recurrence formula of Christoffel Symbol based on geometrical characteristics of covariant derivative, like the Black Hole Information Paradox, like the connection between the Hawking Temperature and the virtual time periodicity of Schwarzschild manifold and Temperature Green Function, etc.                          
 ![path](https://github.com/zhouchw5/interaction.github.io/blob/Life-in-SYSU/path.jpg)              
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;_Some SYSUers walking on my lane_
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;_Some SYSUers walking on my lane_
 
 ## My career in International Division of Theoretical Physics 
 傅里叶变换的思想基本常用，几乎每一门课程的开始都是以傅里叶变换作为基础，量子力学的表象变换，
