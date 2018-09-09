@@ -40,6 +40,10 @@ All that beauty and four years' journey with the academic utopia, may forever st
 ![path](https://github.com/zhouchw5/interaction.github.io/blob/Life-in-SYSU/path.jpg)              
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;_Some SYSUers Walking on My Lane_          
            
+- She had just finished a boring seminar in the School of Management when I first met her.  
+- We had just finished seeing a boring movie when I last met her.  
+- Walking on the S-shaped lane in the campus,  
+
 - She had just finished a boring seminar in the School of Management when I first met her.
 - We had just finished seeing a boring movie when I last met her.
 - Walking on the S-shaped lane in the campus,
