@@ -42,7 +42,7 @@ All that beauty and four years' journey with the academic utopia, may forever st
            
 - She had just finished a boring seminar in the School of Management when I first met her.            
 - We had just finished seeing a boring movie when I last met her.        
-- Walking on the S-shaped lane in the campus,           
+- Walking on the S-shaped lane in the campus,            
                
 
 ## My career in International Division of Theoretical Physics 
