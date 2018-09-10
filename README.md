@@ -42,8 +42,7 @@ All that beauty and four years' journey with the academic utopia, may forever st
            
 <a href="https://www.codecogs.com/eqnedit.php?latex=$\bullet$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$\bullet$" title="$\bullet$" /></a>She had just finished a boring seminar in the School of Management when I first met her.              
 <a href="https://www.codecogs.com/eqnedit.php?latex=$\bullet$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$\bullet$" title="$\bullet$" /></a>We had just finished seeing a boring movie when I last kept her company.            
-<a href="https://www.codecogs.com/eqnedit.php?latex=$\bullet$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$\bullet$" title="$\bullet$" /></a>Walking on the S-shaped lane in the campus, or walking on the straight road with our S-shaped move, I have ever always wishfully thought that you        
-
+<a href="https://www.codecogs.com/eqnedit.php?latex=$\bullet$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$\bullet$" title="$\bullet$" /></a>Walking on the S-shaped lane in the campus, or walking on the straight street with our S-shaped move, both of us might have ever enjoyed nestling in some specific moments.  
 
 ## My career in International Division of Theoretical Physics 
 傅里叶变换的思想基本常用，几乎每一门课程的开始都是以傅里叶变换作为基础，量子力学的表象变换，
