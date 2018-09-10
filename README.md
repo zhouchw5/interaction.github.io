@@ -42,7 +42,7 @@ All that beauty and four years' journey with the academic utopia, may forever st
            
 <a href="https://www.codecogs.com/eqnedit.php?latex=$\bullet$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$\bullet$" title="$\bullet$" /></a>She had just finished a boring seminar in the School of Management when I first met her.              
 <a href="https://www.codecogs.com/eqnedit.php?latex=$\bullet$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$\bullet$" title="$\bullet$" /></a>We had just finished seeing a boring movie when I last kept her company.            
-<a href="https://www.codecogs.com/eqnedit.php?latex=$\bullet$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$\bullet$" title="$\bullet$" /></a>Walking on the S-shaped lane in the campus,       
+<a href="https://www.codecogs.com/eqnedit.php?latex=$\bullet$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$\bullet$" title="$\bullet$" /></a>Walking on the S-shaped lane in the campus, or walking on the straight road with our S-shaped move, I have ever always wishfully thought that you        
 
 
 ## My career in International Division of Theoretical Physics 
