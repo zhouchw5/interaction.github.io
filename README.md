@@ -1,5 +1,5 @@
 # Parts of My Life in School of Physics, Sun Yat-Sen University (SYSU)       
-With extremely sensibility-oriented mannerism, I had to shape my thinking habits with the right mix of science and logic, otherwise I should have drown in emotion and my imagination. Thus my academic exploration in the International Division of Theoretical Physics in SYSU saved my life in some sense. I have gradually developed some techniques to schedule my emotion and balance the rationality and sensibility.            
+With extremely sensibility-oriented mannerism, I had to shape my thinking habits with the right mix of science and logic, otherwise I should have drown in emotion and my imagination. Thus my academic exploration in the International Division of Theoretical Physics in SYSU saved my life in some sense. I have gradually developed some techniques to schedule my emotion and balance the rationality and sensibility, both of which are the important elements of my 'base operating system', installed in my SYSU career. The first application of this base operating system was a full-time working career in Huawei Technologies in the past gap year, before going to the London School of Economics and Political Science for my master degree.                          
 
 ---------------         
 
