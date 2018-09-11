@@ -1,4 +1,8 @@
-# Parts of My Life in School of Physics, Sun Yat-Sen University           
+# Parts of My Life in School of Physics, Sun Yat-Sen University (SYSU)       
+With extremely sensibility-oriented mannerism, I have to shape my thinking habits with the right mix of science and logic, otherwise I should have drown in emotion and my imagination. Thus my academic exploration in the International Division of Theoretical Physics in SYSU saved my life in some sense. I have gradually developed some techniques to schedule my emotion and balance the rationality and sensibility.           
+
+---------------         
+
            
 Five years have passed since I met my **Sun Yat-Sen University (SYSU)**, my alma mater for the first time. The most magical but desperate thing is that time keeps on its pace constantly flying to distance. Recently my sister, Tsuiki, has started her new journey in Sun Yat-Sen University, with the similar curiosity about the future, which would also appear in my memory everytime when I restart my career in SYSU in my mind. This letter is being written for myself in some sense, as an emotional interface for self-talking, also a mechanical string to keep me in an appropriate distance from my memory, far enough for not being burn by the unstoppable emotion, but not too far to preserve my memory.                   
 
@@ -45,7 +49,9 @@ All that beauty and four years' journey with the academic utopia, may forever st
 <a href="https://www.codecogs.com/eqnedit.php?latex=$\bullet$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$\bullet$" title="$\bullet$" /></a>Walking on the S-shaped lane in the campus, or walking on the straight street with our S-shaped move, both of us might have ever enjoyed nestling like other campus couples in some specific moments. Her inbreaking my life in black and white, like a colorful and little fat butterfly, had exceeded my expectation, which merely served under my inference. Only for something that could live in my logic analysis would I keep my expectation. But something like love and those misread as love would not grow as logical inference. Such a kind of appreciation for our getting together as an unexpected surprise to my college life, in spite of an inevitable terminal of our intersecting interval.          
             
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![her](https://github.com/zhouchw5/interaction.github.io/blob/Life-in-SYSU/Her.jpg)                 
-_She was specializing in twining, like suspending in the midair with double legs locking one of mine as one of our pictures above. If I  could have devoted more priority to her in my schedule, if I could have handled some problems more maturely rather than some childish behaviours at that time, some memorable scenarios in my ever virtual reality glasses might lasted extended time. But time would not reversed the arrow and her specialty would no longer belong to me once the 'lock' was opened._          
+_She was specializing in twining, like suspending in the midair with double legs locking one of mine as one of our pictures above. If I  could have devoted more priority to her in my schedule, if I could have handled some problems more maturely rather than some childish behaviours at that time, some memorable scenarios in my ever virtual reality glasses might lasted extended time. But time would not reversed the arrow and her specialty would no longer belong to me once the 'lock' was opened._                  
+             
+             
            
          
 
