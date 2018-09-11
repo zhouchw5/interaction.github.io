@@ -46,7 +46,7 @@ All that beauty and four years' journey with the academic utopia, may forever st
             
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![her](https://github.com/zhouchw5/interaction.github.io/blob/Life-in-SYSU/Her.jpg)                 
 _She was specializing in twining, like suspending in the midair with double legs locking one of mine as one of our pictures above. If I  could have devoted more priority to her in my schedule, if I could have handled some problems more maturely rather than some childish behaviours at that time, some memorable scenarios in my ever virtual reality glasses might lasted extended time. But time would not reversed the arrow and her specialty would no longer belong to me once the 'lock' was opened._          
-         
+           
          
 
      
