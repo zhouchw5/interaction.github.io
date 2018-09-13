@@ -71,7 +71,7 @@ _Besides the poem anthologies above, I have gained a habit keeping things double
 ![white](https://github.com/zhouchw5/interaction.github.io/blob/Life-in-SYSU/white.png)             
            
 ![VR Zhujiang Newtown](https://github.com/zhouchw5/interaction.github.io/blob/Life-in-SYSU/VR_Zhujiang%20Newtown.jpg)       
-__
+_ALong the central line beginning with the Canton Tower, the Sky Ring Square would extend the prosperity to the Sports West Road. When glancing at the airscape of the lighting city, you may find the hurrying people like a herd of sheep. You will encounter 29 million and 200 thousand people throughout your lifetime. "Some just pass by you on the street, "_
 ![white](https://github.com/zhouchw5/interaction.github.io/blob/Life-in-SYSU/white.png)      
 
 
