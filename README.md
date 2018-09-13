@@ -65,7 +65,9 @@ _As a senior otaku(homeboy), I would not go outdoor before if it were not for a 
 ![Bob Dylan](https://github.com/zhouchw5/interaction.github.io/blob/Life-in-SYSU/Bob%20Dylan.jpg)         
 _Coming across the K11 Shopping and Arts Center, I bought two mini books of Bob Dylan's lyrics, Love and Theft, Knockin' on Heaven's Door. As Steve Jobs has ever said in an interview, most of things in life could be interpreted in Bob Dylan's and The Beatles' lyrics. There's one line in one Beatles' song singing that you and I have memories longer than the road that stretches out ahead. Some time should be spent in repositioning some memories in my mind. Have I shouldered too much of the past? I think it a better way to transfer some emotion into the binary form storaged as bits online, as what I am writing on my website._                
 ![white](https://github.com/zhouchw5/interaction.github.io/blob/Life-in-SYSU/white.png)          
-           
+             
+![VR_Canton Tower](https://github.com/zhouchw5/interaction.github.io/blob/Life-in-SYSU/VR_Canton%20Tower.jpg)            
+
 
                 
               
