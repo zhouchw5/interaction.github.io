@@ -86,9 +86,16 @@ _ALong the central line beginning with the Canton Tower, the Sky Ring Square wou
 
 
 
-## My career in International Division of Theoretical Physics 
+## My Career in International Division of Theoretical Physics 
+Time and space tell the material how to move and the material tells the time and space how to bend. Our world-class professors tell us how to hear the rhythm of the nature and the voice of our deep mind.        
+
+![Papers](https://github.com/zhouchw5/interaction.github.io/blob/Life-in-SYSU/papers.jpg)        
+A Picture from the Internet that can describe my daily living state in some sense
 傅里叶变换的思想基本常用，几乎每一门课程的开始都是以傅里叶变换作为基础，量子力学的表象变换，
 
 I need some ending of the past as those people.  
 我需要一些告别，和我的专业，和我在SYSU的时光，和我曾经相当一名伟大物理学家的梦想。
 VR就像装了一个天眼在天上一样，往后余生，我只能飘着看自己的母校了，不再是剧中的角色。
+
+
+人是很容易害怕和恐惧的。我想把一些东西记录下来，其实目的就是为了让自己知道，过去的经历，过去认识的那么多厉害的人，过去的所有资源，其实都在给予我们力量。不要害怕。终将有一天，我们也要成为那些能给予很多人力量的人。
