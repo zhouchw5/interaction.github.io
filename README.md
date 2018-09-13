@@ -88,6 +88,9 @@ _ALong the central line beginning with the Canton Tower, the Sky Ring Square wou
 
 ## My Career in International Division of Theoretical Physics 
 Time and space tell the material how to move and the material tells the time and space how to bend. Our world-class professors tell us how to hear the rhythm of the nature and the voice of our deep mind.        
+              
+![Professors](https://github.com/zhouchw5/interaction.github.io/blob/Life-in-SYSU/Group%20photo.jpg)            
+
 
 ![Papers](https://github.com/zhouchw5/interaction.github.io/blob/Life-in-SYSU/papers.jpg)        
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_A Picture from the Internet that can describe my daily living state in some sense_          
