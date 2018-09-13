@@ -56,7 +56,7 @@ _She was specializing in twining, like suspending in the midair with double legs
            
            
 ![White Canton Tower](https://github.com/zhouchw5/interaction.github.io/blob/Life-in-SYSU/White%20Canton%20Tower.jpg)          
-_As a senior otaku(homeboy), I would not go outdoor before if it were not for a UK T4 Visa. After finishing my Visa application, I wandered around the Haixinsha Square and the Zhujiang Newtown, where she twined my arm for the first time when walking after her internship interview.             
+_As a senior otaku(homeboy), I would not go outdoor before if it were not for a UK T4 Visa. After finishing my Visa application, I wandered around the Haixinsha Square and the Zhujiang Newtown, where she twined my arm for the first time when walking after her internship interview._             
 
            
 
