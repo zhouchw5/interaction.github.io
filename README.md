@@ -95,7 +95,8 @@ _We went for a Brazilian restaurant with our professors Tiberiu Harko and Kirk T
 
 
 ![Papers](https://github.com/zhouchw5/interaction.github.io/blob/Life-in-SYSU/papers.jpg)        
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_A Picture from the Internet that can describe my daily living state in some sense_          
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_A Picture from the Internet that can describe my daily living state in some sense_                    
+Due to the limitation of luggages' weight, I could not carry all my books attached with me when moving to London. I could only write down some typical and simple examples here for preservation some of the past affections to theoretical physics. Everytime when I open series books like From Classical to Quantum Fields,   
 
 傅里叶变换的思想基本常用，几乎每一门课程的开始都是以傅里叶变换作为基础，量子力学的表象变换，
 
