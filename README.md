@@ -54,9 +54,11 @@ _She was specializing in twining, like suspending in the midair with double legs
                         
                               
            
-           
+                 
+             
+             
 ![White Canton Tower](https://github.com/zhouchw5/interaction.github.io/blob/Life-in-SYSU/White%20Canton%20Tower.jpg)          
-_As a senior otaku(homeboy), I would not go outdoor before if it were not for a UK T4 Visa. After finishing my Visa application, I wandered around the Haixinsha Square and the Zhujiang Newtown, where she twined my arm for the first time when walking after her internship interview._             
+_As a senior otaku(homeboy), I would not go outdoor before if it were not for a UK T4 Visa. After finishing my Visa application, I wandered around the Haixinsha Square and the Zhujiang Newtown, where she twined my arm for the first time when walking after her internship interview. We shared much time nearby, for some latest movies, for some newly opened restauarants, etc. I guess in some sense the meaning of couples maybe its refreshing something boring when doing singly._             
 
            
 
