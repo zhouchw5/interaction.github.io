@@ -50,7 +50,8 @@ All that beauty and four years' journey with the academic utopia, may forever st
             
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![her](https://github.com/zhouchw5/interaction.github.io/blob/Life-in-SYSU/Her.jpg)                 
 _She was specializing in twining, like suspending in the midair with double legs locking one of mine as one of our pictures above. If I  could have devoted more priority to her in my schedule, if I could have handled some problems more maturely rather than some childish behaviours at that time, some memorable scenarios in my ever virtual reality glasses might lasted extended time. But time would not reversed the arrow and her specialty would no longer belong to me once the 'lock' was opened._              
-                
+![white](https://github.com/zhouchw5/interaction.github.io/blob/Life-in-SYSU/white.png)          
+
                         
                               
            
@@ -59,11 +60,11 @@ _She was specializing in twining, like suspending in the midair with double legs
              
 ![White Canton Tower](https://github.com/zhouchw5/interaction.github.io/blob/Life-in-SYSU/White%20Canton%20Tower.jpg)          
 _As a senior otaku(homeboy), I would not go outdoor before if it were not for a UK T4 Visa. After finishing my Visa application, I wandered around the Haixinsha Square and the Zhujiang Newtown, where she twined my arm for the first time when walking after her internship interview. We shared much time nearby, for some latest movies, for some newly opened restauarants, etc. I guess in some sense the meaning of couples maybe its refreshing something boring when doing singly._              
-            
+![white](https://github.com/zhouchw5/interaction.github.io/blob/Life-in-SYSU/white.png)                      
            
 ![Bob Dylan](https://github.com/zhouchw5/interaction.github.io/blob/Life-in-SYSU/Bob%20Dylan.jpg)         
 _Coming across the K11 Shopping and Arts Center, I bought two mini books of Bob Dylan's lyrics, Love and Theft, Knockin' on Heaven's Door. As Steve Jobs has ever said in an interview, most of things in life could be interpreted in Bob Dylan's and The Beatles' lyrics. There's one line in one Beatles' song singing that you and I have memories longer than the road that stretches out ahead. Some time should be spent in repositioning some memories in my mind.     
-
+![white](https://github.com/zhouchw5/interaction.github.io/blob/Life-in-SYSU/white.png)          
            
 
                 
