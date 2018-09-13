@@ -58,12 +58,16 @@ _She was specializing in twining, like suspending in the midair with double legs
              
              
 ![White Canton Tower](https://github.com/zhouchw5/interaction.github.io/blob/Life-in-SYSU/White%20Canton%20Tower.jpg)          
-_As a senior otaku(homeboy), I would not go outdoor before if it were not for a UK T4 Visa. After finishing my Visa application, I wandered around the Haixinsha Square and the Zhujiang Newtown, where she twined my arm for the first time when walking after her internship interview. We shared much time nearby, for some latest movies, for some newly opened restauarants, etc. I guess in some sense the meaning of couples maybe its refreshing something boring when doing singly._             
+_As a senior otaku(homeboy), I would not go outdoor before if it were not for a UK T4 Visa. After finishing my Visa application, I wandered around the Haixinsha Square and the Zhujiang Newtown, where she twined my arm for the first time when walking after her internship interview. We shared much time nearby, for some latest movies, for some newly opened restauarants, etc. I guess in some sense the meaning of couples maybe its refreshing something boring when doing singly._              
+            
+           
+![Bob Dylan](https://github.com/zhouchw5/interaction.github.io/blob/Life-in-SYSU/Bob%20Dylan.jpg)         
+_Coming across the K11 Shopping and Arts Center, I bought two mini books of Bob Dylan's lyrics, Love and Theft, Knockin' on Heaven's Door. As Steve Jobs has ever said in an interview, most of things in life could be interpreted in Bob Dylan's and The Beatles' lyrics. There's one line in one Beatles' song singing that you and I have memories longer than the road that stretches out ahead. Some time should be spent in repositioning some memories in my mind.     
 
            
 
                 
-As Steve Jobs has ever said in an interview, most of things in life could be interpreted in Bob Dylan's and The Beatles' lyrics. There's one line in one Beatles' song singing that you and I have memories longer than the road that stretches out ahead.               
+              
              
              
            
