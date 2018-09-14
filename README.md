@@ -74,8 +74,6 @@ _Besides the poem anthologies above, I have gained a habit keeping things double
 ![VR Zhujiang Newtown](https://github.com/zhouchw5/interaction.github.io/blob/Life-in-SYSU/VR_Zhujiang%20Newtown.jpg)       
 _ALong the central line beginning with the Canton Tower, the Sky Ring Square would extend the prosperity to the Sports West Road. When glancing at the airscape of the lighting city, you may find the hurrying people like a herd of sheep. You will encounter 29 million and 200 thousand people throughout your lifetime. "Some just pass by you on the street, some nod head with you, some once give you a hand but leave in a hurry, some interact with you, whom you can not even be reminded of their names. Only an extremely small part of people will leave a mark in your life, those who care about your basic necessities, becoming your families, those who share your sorrow and happiness, becoming your intimate friends, while those who gives mutual help and relief in each other's life, becoming your true love. As life goes on. And those people who walk along with you till the end, each of the 1/29200000, will cast the warmest reflection in your heart when you look backwards. And who will become your 1/29200000?"_          
 ![white](https://github.com/zhouchw5/interaction.github.io/blob/Life-in-SYSU/white.png)           
-![Chuwei Zhou](https://github.com/zhouchw5/interaction.github.io/blob/Life-in-SYSU/Me.jpg)       
-_Chuwei Zhou on the show of General Relativity and Cosmology course. If my memory serves me right, that was one of my presentations preforming another method to derive the similar to the covariant transformation. _
 
 
                 
@@ -106,6 +104,10 @@ Due to the limitation of luggages' weight, I could not carry all my books attach
 ![Domanski](https://github.com/zhouchw5/interaction.github.io/blob/Life-in-SYSU/Domanski.jpg)               
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Prof. Domanski on the show of Complex Systems and Nonlinear Physics course_             
 ![white](https://github.com/zhouchw5/interaction.github.io/blob/Life-in-SYSU/white.png)            
+![Chuwei Zhou](https://github.com/zhouchw5/interaction.github.io/blob/Life-in-SYSU/Me.jpg)       
+_Chuwei Zhou on the show of General Relativity and Cosmology course. If my memory serves me right, that was one of my presentations performing another derivation for the pseudo covariant transformation of the Christoffel Symbol, based on the geometrical thingking rather than the covariant derivative method._           
+![white](https://github.com/zhouchw5/interaction.github.io/blob/Life-in-SYSU/white.png)              
+
 
 
 
