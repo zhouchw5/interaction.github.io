@@ -110,7 +110,7 @@ _Chuwei Zhou on the show of General Relativity and Cosmology course. If my memor
 ![General Relativity](https://github.com/zhouchw5/interaction.github.io/blob/Life-in-SYSU/General%20Relativity.jpg)         
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Some notes compressed to an A4 paper before an examination in General Relativity and Cosmology_          
 ![white](https://github.com/zhouchw5/interaction.github.io/blob/Life-in-SYSU/white.png)        
-If I have to define the essence of beauty, the prior option hitting my mind is a series of pyhsics equations, describing a wide profusion of nature's pictures, of which some are microscopic, others are macroscopic, some are dynamic and flowing ,some are static. If I have insisted on my acadmic career in theoretical physics, I could feed me in my independent spiritual world and merely serve for the truth of nature. But the practicality is more complicated and I tend to be a  
+If I have to define the essence of beauty, the prior option hitting my mind is a series of pyhsics equations, describing a wide profusion of nature's pictures, of which some are microscopic, others are macroscopic, some are dynamic and flowing ,some are static. If I have insisted on my acadmic career in theoretical physics, I could feed me in my independent spiritual world and merely serve for the truth of nature. But the practicality is more complicated and I tend to be a pragmatist caring more about 'basic necessities' rather than the Sun, Moon and stars. This transformation, bias to real life,  as With my shadow knowledge and     
 
 
 
