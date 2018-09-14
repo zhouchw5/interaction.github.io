@@ -109,7 +109,7 @@ _Chuwei Zhou on the show of General Relativity and Cosmology course. If my memor
 ![white](https://github.com/zhouchw5/interaction.github.io/blob/Life-in-SYSU/white.png)             
 ![General Relativity](https://github.com/zhouchw5/interaction.github.io/blob/Life-in-SYSU/General%20Relativity.jpg)         
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Some notes compressed to an A4 paper before an examination in General Relativity and Cosmology_          
-![white](https://github.com/zhouchw5/interaction.github.io/blob/Life-in-SYSU/white.png)             
+If I have to define the essence of beauty, the prior option hitting my mind is a series of pyhsics equations, describing a wide profusion of nature's pictures, of which some are microscopic, others are macroscopic, some are dynamic and flowing ,some are static. If I have insisted on my acadmic career in theoretical physics, I could feed me in my independent spiritual world and merely serve for the truth of nature. But 
 
 
 
@@ -122,6 +122,6 @@ I need some ending of the past as those people.
 VR就像装了一个天眼在天上一样，往后余生，我只能飘着看自己的母校了，不再是剧中的角色。
 
 
-人是很容易害怕和恐惧的。我想把一些东西记录下来，其实目的就是为了让自己知道，过去的经历，过去认识的那么多厉害的人，过去的所有资源，其实都在给予我们力量。不要害怕。终将有一天，我们也要成为那些能给予很多人力量的人。         
+人是很容易害怕和恐惧的。我想把一些东西记录下来，其实目的就是为了让自己知道，过去的经历，过去认识的那么多厉害的人，过去的所有资源，其实都在给予我们力量。不要害怕。终将有一天，我们也要成为那些能给予很多人力量的人。 合上过去的笔记和厚厚的教科书，打印出来的涂涂画画的papers，扎好轧带，我把它们堆放在最深的柜子里。        
 
 ![Miki](https://github.com/zhouchw5/interaction.github.io/blob/Life-in-SYSU/Another%20person.jpg)
