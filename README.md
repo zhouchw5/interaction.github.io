@@ -106,7 +106,10 @@ Due to the limitation of luggages' weight, I could not carry all my books attach
 ![white](https://github.com/zhouchw5/interaction.github.io/blob/Life-in-SYSU/white.png)            
 ![Chuwei Zhou](https://github.com/zhouchw5/interaction.github.io/blob/Life-in-SYSU/Me.jpg)       
 _Chuwei Zhou on the show of General Relativity and Cosmology course. If my memory serves me right, that was one of my presentations performing another derivation for the pseudo covariant transformation of the Christoffel Symbol, based on the geometrical thingking rather than the covariant derivative method._           
-![white](https://github.com/zhouchw5/interaction.github.io/blob/Life-in-SYSU/white.png)              
+![white](https://github.com/zhouchw5/interaction.github.io/blob/Life-in-SYSU/white.png)             
+![General Relativity](https://github.com/zhouchw5/interaction.github.io/blob/Life-in-SYSU/General%20Relativity.jpg)         
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Some notes compressed to a A4 paper before an examination in General Relativity and Cosmology_          
+![white](https://github.com/zhouchw5/interaction.github.io/blob/Life-in-SYSU/white.png)             
 
 
 
