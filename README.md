@@ -118,8 +118,8 @@ If I have to define the essence of beauty, the prior option hitting my mind is a
 &nbsp; &nbsp; <a href="https://www.codecogs.com/eqnedit.php?latex=$R_{\mu&space;\nu}-&space;1/2R&space;\cdot&space;g_{\mu&space;\nu}&space;=&space;8&space;\pi&space;G&space;T_{\mu&space;\nu}&space;/&space;c^4$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$R_{\mu&space;\nu}-&space;1/2R&space;\cdot&space;g_{\mu&space;\nu}&space;=&space;8&space;\pi&space;G&space;T_{\mu&space;\nu}&space;/&space;c^4$" title="$R_{\mu \nu}- 1/2R \cdot g_{\mu \nu} = 8 \pi G T_{\mu \nu} / c^4$" /></a>                   
 &nbsp; &nbsp; <a href="https://www.codecogs.com/eqnedit.php?latex=$ds^2&space;=&space;-(&space;1-2GM/c^2&space;r&space;)&space;c^2&space;dt^2&space;&plus;&space;(&space;1-2GM/c^2r&space;)^2dr^2&space;&plus;&space;r^2&space;(&space;d\theta^2&space;&plus;&space;sin\theta&space;d\varphi^2&space;)$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$ds^2&space;=&space;-(&space;1-2GM/c^2&space;r&space;)&space;c^2&space;dt^2&space;&plus;&space;(&space;1-2GM/c^2r&space;)^2dr^2&space;&plus;&space;r^2&space;(&space;d\theta^2&space;&plus;&space;sin\theta&space;d\varphi^2&space;)$" title="$ds^2 = -( 1-2GM/c^2 r ) c^2 dt^2 + ( 1-2GM/c^2r )^2dr^2 + r^2 ( d\theta^2 + sin\theta d\varphi^2 )$" /></a>        
                
-<a href="https://www.codecogs.com/eqnedit.php?latex=$\bullet$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$\bullet$" title="$\bullet$" /></a> &nbsp; Operators and states describe the profile of quantum mechanics, based on the probability theory.               
-&nbsp; &nbsp;   
+<a href="https://www.codecogs.com/eqnedit.php?latex=$\bullet$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$\bullet$" title="$\bullet$" /></a> &nbsp; Operators and states describe the profile of quantum mechanics, based on the probability theory. By badinage we can extend our cognition to quantum field theory with rotation and the harmonic oscillator included.                         
+&nbsp; &nbsp;    
 
 
 
@@ -136,5 +136,6 @@ I need some ending of the past as those people.
 VR就像装了一个天眼在天上一样，往后余生，我只能飘着看自己的母校了，不再是剧中的角色。
 
 
-人是很容易害怕和恐惧的。我想把一些东西记录下来，其实目的就是为了让自己知道，过去的经历，过去认识的那么多厉害的人，过去的所有资源，其实都在给予我们力量。不要害怕。终将有一天，我们也要成为那些能给予很多人力量的人。 合上过去的笔记和厚厚的教科书，打印出来的涂涂画画的papers，扎好轧带，我把它们堆放在最深的柜子里。        
+人是很容易害怕和恐惧的。我想把一些东西记录下来，其实目的就是为了让自己知道，过去的经历，过去认识的那么多厉害的人，过去的所有资源，其实都在给予我们力量。不要害怕。终将有一天，我们也要成为那些能给予很多人力量的人。 合上过去的笔记和厚厚的教科书，打印出来的涂涂画画的papers，扎好轧带，我把它们堆放在最深的柜子里。  
+Physics 注重 the beauty of conciseness. 我们总是祈求一个宇宙的奥秘，用一个豌豆般大小的方程就能够描述了。我们一般是从一些基本的原理/性质出发，比如最小作用量原理与变分法 the principle of stationary action，概率流守恒，波粒二象性等，会得出一些简洁的方程，我们寻求这些方程的解或近似解，通过解的性质了解物质与运动。我们从静止与运动鲜明的经典物理到具有不确定性原理的量子理论，different spaces in different dimensions would have different respresentations related to the same story on The rotation, 振荡, 抑或宏观的测地线运. 而描述这些进程的语言是数学。其实这个基本的思考过程和物理的演绎方式，就构成了我的基本世界观。 
 
