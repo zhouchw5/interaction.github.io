@@ -125,7 +125,9 @@ If I have to define the essence of beauty, the prior option hitting my mind is a
 &nbsp; &nbsp; <a href="https://www.codecogs.com/eqnedit.php?latex=$=\begin{bmatrix}&space;\lambda_{1}\Psi_{1}\Psi_{1}^{T}&space;&&space;0&space;&&space;0\\&space;0&space;&&space;\lambda_{2}\Psi_{2}\Psi_{2}^{T}&space;&&space;0\\&space;0&space;&&space;0&space;&&space;\lambda_{3}\Psi_{3}\Psi_{3}^{T}&space;\end{bmatrix}&space;=&space;\begin{bmatrix}&space;\lambda_{1}&space;&&space;&&space;\\&space;&&space;\lambda_{2}&space;&&space;\\&space;&&space;&&space;\lambda_{3}&space;\end{bmatrix}$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$=\begin{bmatrix}&space;\lambda_{1}\Psi_{1}\Psi_{1}^{T}&space;&&space;0&space;&&space;0\\&space;0&space;&&space;\lambda_{2}\Psi_{2}\Psi_{2}^{T}&space;&&space;0\\&space;0&space;&&space;0&space;&&space;\lambda_{3}\Psi_{3}\Psi_{3}^{T}&space;\end{bmatrix}&space;=&space;\begin{bmatrix}&space;\lambda_{1}&space;&&space;&&space;\\&space;&&space;\lambda_{2}&space;&&space;\\&space;&&space;&&space;\lambda_{3}&space;\end{bmatrix}$" title="$=\begin{bmatrix} \lambda_{1}\Psi_{1}\Psi_{1}^{T} & 0 & 0\\ 0 & \lambda_{2}\Psi_{2}\Psi_{2}^{T} & 0\\ 0 & 0 & \lambda_{3}\Psi_{3}\Psi_{3}^{T} \end{bmatrix} = \begin{bmatrix} \lambda_{1} & & \\ & \lambda_{2} & \\ & & \lambda_{3} \end{bmatrix}$" /></a>           
 &nbsp; &nbsp; With the basic rule of matrix multiplication, we would have the same formula of products no matter
 <a href="https://www.codecogs.com/eqnedit.php?latex=$\Psi$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$\Psi$" title="$\Psi$" /></a>
-is a number or a column vector.         
+is a number or a              
+&nbsp; &nbsp; column vector.                
+
 
 
 
