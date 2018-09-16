@@ -126,7 +126,9 @@ If I have to define the essence of beauty, the prior option hitting my mind is a
 &nbsp; &nbsp; With the basic rule of matrix multiplication, we would have the same formula of products no matter
 <a href="https://www.codecogs.com/eqnedit.php?latex=$\Psi$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$\Psi$" title="$\Psi$" /></a>
 is a number or a              
-&nbsp; &nbsp; column vector.                
+&nbsp; &nbsp; column vector.         
+            
+<a href="https://www.codecogs.com/eqnedit.php?latex=$\bullet$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$\bullet$" title="$\bullet$" /></a> &nbsp; In terms of the start point for quantum field theory, we should understand different representations of rotation.             
 
 
 
@@ -141,7 +143,7 @@ is a number or a
 
 
 
-
+最简单的元素，带给你的回忆和感受往往是最直接最迅捷的。
 
 傅里叶变换的思想基本常用，几乎每一门课程的开始都是以傅里叶变换作为基础，量子力学的表象变换，
 
