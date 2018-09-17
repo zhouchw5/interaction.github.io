@@ -153,7 +153,12 @@ with the matrix form above, we can come up with
 &nbsp; &nbsp; all of which with trace equal to zero.           
                  
 &nbsp; &nbsp; If we take the transformation of the rotating object's representation from a three-dimensional vector to three-dimensional             
-&nbsp; &nbsp; spinor, we can achieve the group homomorphism of rotation.          
+&nbsp; &nbsp; spinor, we can achieve the group homomorphism of rotation.            
+&nbsp; &nbsp; <a href="https://www.codecogs.com/eqnedit.php?latex=$\widetilde{x}=\sigma_i&space;x^i&space;=&space;\vec{x}&space;\cdot&space;\vec{\sigma}$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$\widetilde{x}=\sigma_i&space;x^i&space;=&space;\vec{x}&space;\cdot&space;\vec{\sigma}$" title="$\widetilde{x}=\sigma_i x^i = \vec{x} \cdot \vec{\sigma}$" /></a>      
+&nbsp; &nbsp;  where the Pauli matrices, satisfying the identity
+<a href="https://www.codecogs.com/eqnedit.php?latex=$\sigma_i&space;\sigma_j&space;=\delta_ij&space;&plus;&space;i&space;\varepsilon_{ijk}&space;\sigma_k$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$\sigma_i&space;\sigma_j&space;=\delta_ij&space;&plus;&space;i&space;\varepsilon_{ijk}&space;\sigma_k$" title="$\sigma_i \sigma_j =\delta_ij + i \varepsilon_{ijk} \sigma_k$" /></a>
+can be presented as below:         
+&nbsp; &nbsp;  
 
 
 
