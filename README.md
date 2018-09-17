@@ -143,13 +143,8 @@ and
 of angle 
 <a href="https://www.codecogs.com/eqnedit.php?latex=$\theta$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$\theta$" title="$\theta$" /></a>,            
 &nbsp; &nbsp; around the third axis, the z axis. Then we have:        
-&nbsp; &nbsp; $R_3(\theta) = \begin{pmatrix}
-cos\theta & -sin\theta & 0\\ 
-sin\theta & cos\theta & 0\\ 
-0 & 0 & 1
-\end{pmatrix}$           
+&nbsp; &nbsp; <a href="https://www.codecogs.com/eqnedit.php?latex=$R_3(\theta)&space;=&space;\begin{pmatrix}&space;cos&space;\theta&space;&&space;-sin&space;\theta&space;&&space;0\\&space;sin\theta&space;&&space;cos&space;\theta&space;&&space;0\\&space;0&space;&&space;0&space;&&space;1&space;\end{pmatrix}$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$R_3(\theta)&space;=&space;\begin{pmatrix}&space;cos&space;\theta&space;&&space;-sin&space;\theta&space;&&space;0\\&space;sin\theta&space;&&space;cos&space;\theta&space;&&space;0\\&space;0&space;&&space;0&space;&&space;1&space;\end{pmatrix}$" title="$R_3(\theta) = \begin{pmatrix} cos \theta & -sin \theta & 0\\ sin\theta & cos \theta & 0\\ 0 & 0 & 1 \end{pmatrix}$" /></a>                      
 &nbsp; &nbsp; Similar to the comparison between the Taylor series of
-
 <a href="https://www.codecogs.com/eqnedit.php?latex=$R_3(\theta)&space;=&space;e^{-i&space;\theta&space;J^3}$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$R_3(\theta)&space;=&space;e^{-i&space;\theta&space;J^3}$" title="$R_3(\theta) = e^{-i \theta J^3}$" /></a> 
 
 with the matrix form above, we can come up with the following expression of the three generators 
