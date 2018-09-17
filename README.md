@@ -180,7 +180,9 @@ matrix with complex coefficients
 <a href="https://www.codecogs.com/eqnedit.php?latex=$\phi&space;:&space;SU(2)&space;\to&space;SO(3)$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$\phi&space;:&space;SU(2)&space;\to&space;SO(3)$" title="$\phi : SU(2) \to SO(3)$" /></a> 
 between 
 <a href="https://www.codecogs.com/eqnedit.php?latex=$A&space;=&space;exp^{-i\theta\overrightarrow{n}\cdot\overrightarrow{\sigma}/2}$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$A&space;=&space;exp^{-i\theta\overrightarrow{n}\cdot\overrightarrow{\sigma}/2}$" title="$A = exp^{-i\theta\overrightarrow{n}\cdot\overrightarrow{\sigma}/2}$" /></a> and             
-&nbsp; &nbsp; <a href="https://www.codecogs.com/eqnedit.php?latex=$R(&space;\theta,&space;\vec{n})&space;=&space;R&space;=&space;e^{-i&space;\theta&space;\vec{n}&space;\cdot&space;\vec{J}}$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$R(&space;\theta,&space;\vec{n})&space;=&space;R&space;=&space;e^{-i&space;\theta&space;\vec{n}&space;\cdot&space;\vec{J}}$" title="$R( \theta, \vec{n}) = R = e^{-i \theta \vec{n} \cdot \vec{J}}$" /></a>. 
+&nbsp; &nbsp; <a href="https://www.codecogs.com/eqnedit.php?latex=$R(&space;\theta,&space;\vec{n})&space;=&space;R&space;=&space;e^{-i&space;\theta&space;\vec{n}&space;\cdot&space;\vec{J}}$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$R(&space;\theta,&space;\vec{n})&space;=&space;R&space;=&space;e^{-i&space;\theta&space;\vec{n}&space;\cdot&space;\vec{J}}$" title="$R( \theta, \vec{n}) = R = e^{-i \theta \vec{n} \cdot \vec{J}}$" /></a>.        
+             
+Sadly, my has gradually faded away,              
        
 
 
