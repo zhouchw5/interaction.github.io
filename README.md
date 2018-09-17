@@ -182,7 +182,7 @@ between
 <a href="https://www.codecogs.com/eqnedit.php?latex=$A&space;=&space;exp^{-i\theta\overrightarrow{n}\cdot\overrightarrow{\sigma}/2}$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$A&space;=&space;exp^{-i\theta\overrightarrow{n}\cdot\overrightarrow{\sigma}/2}$" title="$A = exp^{-i\theta\overrightarrow{n}\cdot\overrightarrow{\sigma}/2}$" /></a> and             
 &nbsp; &nbsp; <a href="https://www.codecogs.com/eqnedit.php?latex=$R(&space;\theta,&space;\vec{n})&space;=&space;R&space;=&space;e^{-i&space;\theta&space;\vec{n}&space;\cdot&space;\vec{J}}$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$R(&space;\theta,&space;\vec{n})&space;=&space;R&space;=&space;e^{-i&space;\theta&space;\vec{n}&space;\cdot&space;\vec{J}}$" title="$R( \theta, \vec{n}) = R = e^{-i \theta \vec{n} \cdot \vec{J}}$" /></a>.        
              
-Sadly, my has gradually faded away,              
+The most simple elements, shown as above, always have the most immediate Sadly, my has gradually faded away,              
        
 
 
@@ -209,7 +209,6 @@ Sadly, my has gradually faded away,
 
 
 
-最简单的元素，带给你的回忆和感受往往是最直接最迅捷的。
 
 傅里叶变换的思想基本常用，几乎每一门课程的开始都是以傅里叶变换作为基础，量子力学的表象变换，
 
