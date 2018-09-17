@@ -182,7 +182,7 @@ between
 <a href="https://www.codecogs.com/eqnedit.php?latex=$A&space;=&space;exp^{-i\theta\overrightarrow{n}\cdot\overrightarrow{\sigma}/2}$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$A&space;=&space;exp^{-i\theta\overrightarrow{n}\cdot\overrightarrow{\sigma}/2}$" title="$A = exp^{-i\theta\overrightarrow{n}\cdot\overrightarrow{\sigma}/2}$" /></a> and             
 &nbsp; &nbsp; <a href="https://www.codecogs.com/eqnedit.php?latex=$R(&space;\theta,&space;\vec{n})&space;=&space;R&space;=&space;e^{-i&space;\theta&space;\vec{n}&space;\cdot&space;\vec{J}}$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$R(&space;\theta,&space;\vec{n})&space;=&space;R&space;=&space;e^{-i&space;\theta&space;\vec{n}&space;\cdot&space;\vec{J}}$" title="$R( \theta, \vec{n}) = R = e^{-i \theta \vec{n} \cdot \vec{J}}$" /></a>.        
              
-The most simple elements, shown as above, always have the most immediate Sadly, my has gradually faded away,              
+The most simple elements, shown as above, could always immediately , my has gradually faded away,              
        
 
 
@@ -206,7 +206,8 @@ The most simple elements, shown as above, always have the most immediate Sadly, 
 
 
 
-
+-------------
+以下是草稿：
 
 
 
