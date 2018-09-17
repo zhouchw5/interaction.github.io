@@ -137,6 +137,7 @@ as an exponential matrix:
 &nbsp; &nbsp; with 
 <a href="https://www.codecogs.com/eqnedit.php?latex=$J&space;=&space;(J^1,&space;J^2,&space;J^3)$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$J&space;=&space;(J^1,&space;J^2,&space;J^3)$" title="$J = (J^1, J^2, J^3)$" /></a>
 and 
+<a href="https://www.codecogs.com/eqnedit.php?latex=$[J^k,&space;J^l]=i\varepsilon^{klm}J^m$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$[J^k,&space;J^l]=i\varepsilon^{klm}J^m$" title="$[J^k, J^l]=i\varepsilon^{klm}J^m$" /></a>.          
 
 
 
