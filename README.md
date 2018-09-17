@@ -158,7 +158,8 @@ with the matrix form above, we can come up with
 &nbsp; &nbsp;  where the Pauli matrices, satisfying the identity
 <a href="https://www.codecogs.com/eqnedit.php?latex=$\sigma_i&space;\sigma_j&space;=\delta_ij&space;&plus;&space;i&space;\varepsilon_{ijk}&space;\sigma_k$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$\sigma_i&space;\sigma_j&space;=\delta_ij&space;&plus;&space;i&space;\varepsilon_{ijk}&space;\sigma_k$" title="$\sigma_i \sigma_j =\delta_ij + i \varepsilon_{ijk} \sigma_k$" /></a>
 can be presented as below:         
-&nbsp; &nbsp;  
+&nbsp; &nbsp; <a href="https://www.codecogs.com/eqnedit.php?latex=$\sigma_1&space;=&space;\begin{pmatrix}&space;0&space;&&space;1\\&space;1&space;&&space;0&space;\end{pmatrix},&space;\sigma_2&space;=&space;\begin{pmatrix}&space;0&space;&&space;-i\\&space;i&space;&&space;0&space;\end{pmatrix},&space;\sigma_3&space;=&space;\begin{pmatrix}&space;1&space;&&space;0\\&space;0&space;&&space;-1&space;\end{pmatrix}$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$\sigma_1&space;=&space;\begin{pmatrix}&space;0&space;&&space;1\\&space;1&space;&&space;0&space;\end{pmatrix},&space;\sigma_2&space;=&space;\begin{pmatrix}&space;0&space;&&space;-i\\&space;i&space;&&space;0&space;\end{pmatrix},&space;\sigma_3&space;=&space;\begin{pmatrix}&space;1&space;&&space;0\\&space;0&space;&&space;-1&space;\end{pmatrix}$" title="$\sigma_1 = \begin{pmatrix} 0 & 1\\ 1 & 0 \end{pmatrix}, \sigma_2 = \begin{pmatrix} 0 & -i\\ i & 0 \end{pmatrix}, \sigma_3 = \begin{pmatrix} 1 & 0\\ 0 & -1 \end{pmatrix}$" /></a>              
+
 
 
 
