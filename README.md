@@ -141,7 +141,7 @@ and
 &nbsp; &nbsp; For the expression of the generators in Cartesian coordinates, we can consider first the case of a rotation
 <a href="https://www.codecogs.com/eqnedit.php?latex=$R_3(\theta)$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$R_3(\theta)$" title="$R_3(\theta)$" /></a>,
 of angle 
-<a href="https://www.codecogs.com/eqnedit.php?latex=$\theta$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$\theta$" title="$\theta$" /></a>, 
+<a href="https://www.codecogs.com/eqnedit.php?latex=$\theta$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$\theta$" title="$\theta$" /></a>,            
 around the third axis, the z axis. Then we have:       
 
 
