@@ -128,7 +128,7 @@ If I have to define the essence of beauty, the prior option hitting my mind is a
 is a number or a              
 &nbsp; &nbsp; column vector.         
             
-<a href="https://www.codecogs.com/eqnedit.php?latex=$\bullet$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$\bullet$" title="$\bullet$" /></a> &nbsp; In terms of the start point for quantum field theory, we should understand different representations of rotation.             
+<a href="https://www.codecogs.com/eqnedit.php?latex=$\bullet$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$\bullet$" title="$\bullet$" /></a> &nbsp; In terms of the start point for quantum field theory, we should understand different representations of rotation.              
 
 
 
