@@ -133,7 +133,11 @@ is a number or a
 &nbsp; &nbsp; The theory of Lie groups enables us to write any elements
 <a href="https://www.codecogs.com/eqnedit.php?latex=$R\in&space;SO(3)$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$R\in&space;SO(3)$" title="$R\in SO(3)$" /></a>
 as an exponential matrix:            
-<a href="https://www.codecogs.com/eqnedit.php?latex=$R(&space;\theta,&space;\vec{n})&space;=&space;R&space;=&space;e^{-i&space;\theta&space;\vec{n}&space;\cdot&space;\vec{J}}$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$R(&space;\theta,&space;\vec{n})&space;=&space;R&space;=&space;e^{-i&space;\theta&space;\vec{n}&space;\cdot&space;\vec{J}}$" title="$R( \theta, \vec{n}) = R = e^{-i \theta \vec{n} \cdot \vec{J}}$" /></a>
+&nbsp; &nbsp; <a href="https://www.codecogs.com/eqnedit.php?latex=$R(&space;\theta,&space;\vec{n})&space;=&space;R&space;=&space;e^{-i&space;\theta&space;\vec{n}&space;\cdot&space;\vec{J}}$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$R(&space;\theta,&space;\vec{n})&space;=&space;R&space;=&space;e^{-i&space;\theta&space;\vec{n}&space;\cdot&space;\vec{J}}$" title="$R( \theta, \vec{n}) = R = e^{-i \theta \vec{n} \cdot \vec{J}}$" /></a>         
+&nbsp; &nbsp; with 
+<a href="https://www.codecogs.com/eqnedit.php?latex=$J&space;=&space;(J^1,&space;J^2,&space;J^3)$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$J&space;=&space;(J^1,&space;J^2,&space;J^3)$" title="$J = (J^1, J^2, J^3)$" /></a>
+and 
+
 
 
 
