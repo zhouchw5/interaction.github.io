@@ -162,8 +162,10 @@ can be presented as below:
 &nbsp; &nbsp; Related to the 
 <a href="https://www.codecogs.com/eqnedit.php?latex=$3\times&space;3$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$3\times&space;3$" title="$3\times 3$" /></a> 
 matrix of rotation R, such that
-<a href="https://www.codecogs.com/eqnedit.php?latex=$&space;\overrightarrow{{x}'}&space;=&space;\widehat{R}&space;\cdot&space;\overrightarrow{x}$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$&space;\overrightarrow{{x}'}&space;=&space;\widehat{R}&space;\cdot&space;\overrightarrow{x}$" title="$ \overrightarrow{{x}'} = \widehat{R} \cdot \overrightarrow{x}$" /></a>. 
+<a href="https://www.codecogs.com/eqnedit.php?latex=$&space;\overrightarrow{{x}'}&space;=&space;\widehat{R}&space;\cdot&space;\overrightarrow{x}$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$&space;\overrightarrow{{x}'}&space;=&space;\widehat{R}&space;\cdot&space;\overrightarrow{x}$" title="$ \overrightarrow{{x}'} = \widehat{R} \cdot \overrightarrow{x}$" /></a>, 
 we will associate a 
+<a href="https://www.codecogs.com/eqnedit.php?latex=$2\times&space;2$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$2\times&space;2$" title="$2\times 2$" /></a> 
+matrix with complex coefficients 
 
 
 
