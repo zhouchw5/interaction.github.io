@@ -172,7 +172,18 @@ matrix with complex coefficients
 <a href="https://www.codecogs.com/eqnedit.php?latex=$\delta&space;\theta^i$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$\delta&space;\theta^i$" title="$\delta \theta^i$" /></a> based on 
 <a href="https://www.codecogs.com/eqnedit.php?latex=$&space;\overrightarrow{{x}'}&space;=&space;\widehat{R}&space;\cdot&space;\overrightarrow{x}$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$&space;\overrightarrow{{x}'}&space;=&space;\widehat{R}&space;\cdot&space;\overrightarrow{x}$" title="$ \overrightarrow{{x}'} = \widehat{R} \cdot \overrightarrow{x}$" /></a>:             
 &nbsp; &nbsp; <a href="https://www.codecogs.com/eqnedit.php?latex=${x_i}'&space;=&space;x_i&space;&plus;\varepsilon_{ijk}&space;\delta&space;\theta^j&space;x^k$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?${x_i}'&space;=&space;x_i&space;&plus;\varepsilon_{ijk}&space;\delta&space;\theta^j&space;x^k$" title="${x_i}' = x_i +\varepsilon_{ijk} \delta \theta^j x^k$" /></a>          
-![rotation](https://github.com/zhouchw5/interaction.github.io/blob/Life-in-SYSU/Spinor%20rotation.jpg)
+![rotation](https://github.com/zhouchw5/interaction.github.io/blob/Life-in-SYSU/Spinor%20rotation.jpg)         
+&nbsp; &nbsp; Such that 
+<a href="https://www.codecogs.com/eqnedit.php?latex=$A&space;=&space;1&space;-&space;i/2&space;\cdot&space;\delta&space;\overrightarrow{\theta}&space;\cdot&space;\overrightarrow{\sigma}$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$A&space;=&space;1&space;-&space;i/2&space;\cdot&space;\delta&space;\overrightarrow{\theta}&space;\cdot&space;\overrightarrow{\sigma}$" title="$A = 1 - i/2 \cdot \delta \overrightarrow{\theta} \cdot \overrightarrow{\sigma}$" /></a>, 
+<a href="https://www.codecogs.com/eqnedit.php?latex=$A&space;=&space;exp^{-i\theta\overrightarrow{n}\cdot\overrightarrow{\sigma}/2}$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$A&space;=&space;exp^{-i\theta\overrightarrow{n}\cdot\overrightarrow{\sigma}/2}$" title="$A = exp^{-i\theta\overrightarrow{n}\cdot\overrightarrow{\sigma}/2}$" /></a>              
+&nbsp; &nbsp; Thus we have performed the group homomorphism: 
+<a href="https://www.codecogs.com/eqnedit.php?latex=$\phi&space;:&space;SU(2)&space;\to&space;SO(3)$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$\phi&space;:&space;SU(2)&space;\to&space;SO(3)$" title="$\phi : SU(2) \to SO(3)$" /></a> 
+between 
+<a href="https://www.codecogs.com/eqnedit.php?latex=$A&space;=&space;exp^{-i\theta\overrightarrow{n}\cdot\overrightarrow{\sigma}/2}$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$A&space;=&space;exp^{-i\theta\overrightarrow{n}\cdot\overrightarrow{\sigma}/2}$" title="$A = exp^{-i\theta\overrightarrow{n}\cdot\overrightarrow{\sigma}/2}$" /></a> and 
+<a href="https://www.codecogs.com/eqnedit.php?latex=$R(&space;\theta,&space;\vec{n})&space;=&space;R&space;=&space;e^{-i&space;\theta&space;\vec{n}&space;\cdot&space;\vec{J}}$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$R(&space;\theta,&space;\vec{n})&space;=&space;R&space;=&space;e^{-i&space;\theta&space;\vec{n}&space;\cdot&space;\vec{J}}$" title="$R( \theta, \vec{n}) = R = e^{-i \theta \vec{n} \cdot \vec{J}}$" /></a>.        
+
+
+
 
 
 
