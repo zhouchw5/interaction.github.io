@@ -128,7 +128,13 @@ If I have to define the essence of beauty, the prior option hitting my mind is a
 is a number or a              
 &nbsp; &nbsp; column vector.         
             
-<a href="https://www.codecogs.com/eqnedit.php?latex=$\bullet$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$\bullet$" title="$\bullet$" /></a> &nbsp; In terms of the start point for quantum field theory, we should understand different representations of rotation.              
+<a href="https://www.codecogs.com/eqnedit.php?latex=$\bullet$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$\bullet$" title="$\bullet$" /></a> &nbsp; In terms of the start point for quantum field theory, we should understand different representations of rotation. The first guidance is the group homomorphism, taking the three-dimensional rotation group for an example:              
+&nbsp; &nbsp; <a href="https://www.codecogs.com/eqnedit.php?latex=$\phi&space;:&space;SU(2)&space;\to&space;SO(3)$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$\phi&space;:&space;SU(2)&space;\to&space;SO(3)$" title="$\phi : SU(2) \to SO(3)$" /></a>           
+&nbsp; &nbsp; The theory of Lie groups enables us to write any elements
+<a href="https://www.codecogs.com/eqnedit.php?latex=$R\in&space;SO(3)$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$R\in&space;SO(3)$" title="$R\in SO(3)$" /></a>
+as an exponential matrix:            
+<a href="https://www.codecogs.com/eqnedit.php?latex=$R(&space;\theta,&space;\vec{n})&space;=&space;R&space;=&space;e^{-i&space;\theta&space;\vec{n}&space;\cdot&space;\vec{J}}$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$R(&space;\theta,&space;\vec{n})&space;=&space;R&space;=&space;e^{-i&space;\theta&space;\vec{n}&space;\cdot&space;\vec{J}}$" title="$R( \theta, \vec{n}) = R = e^{-i \theta \vec{n} \cdot \vec{J}}$" /></a>
+, with 
 
 
 
