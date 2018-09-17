@@ -138,7 +138,11 @@ as an exponential matrix:
 <a href="https://www.codecogs.com/eqnedit.php?latex=$J&space;=&space;(J^1,&space;J^2,&space;J^3)$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$J&space;=&space;(J^1,&space;J^2,&space;J^3)$" title="$J = (J^1, J^2, J^3)$" /></a>
 and 
 <a href="https://www.codecogs.com/eqnedit.php?latex=$[J^k,&space;J^l]=i\varepsilon^{klm}J^m$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$[J^k,&space;J^l]=i\varepsilon^{klm}J^m$" title="$[J^k, J^l]=i\varepsilon^{klm}J^m$" /></a>.          
-
+&nbsp; &nbsp; For the expression of the generators in Cartesian coordinates, we can consider first the case of a rotation
+<a href="https://www.codecogs.com/eqnedit.php?latex=$R_3(\theta)$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$R_3(\theta)$" title="$R_3(\theta)$" /></a>,
+of angle 
+<a href="https://www.codecogs.com/eqnedit.php?latex=$\theta$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$\theta$" title="$\theta$" /></a>, 
+around the third axis, the z axis. Then we have:       
 
 
 
