@@ -134,7 +134,8 @@ is a number or a
 <a href="https://www.codecogs.com/eqnedit.php?latex=$R\in&space;SO(3)$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$R\in&space;SO(3)$" title="$R\in SO(3)$" /></a>
 as an exponential matrix:            
 <a href="https://www.codecogs.com/eqnedit.php?latex=$R(&space;\theta,&space;\vec{n})&space;=&space;R&space;=&space;e^{-i&space;\theta&space;\vec{n}&space;\cdot&space;\vec{J}}$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$R(&space;\theta,&space;\vec{n})&space;=&space;R&space;=&space;e^{-i&space;\theta&space;\vec{n}&space;\cdot&space;\vec{J}}$" title="$R( \theta, \vec{n}) = R = e^{-i \theta \vec{n} \cdot \vec{J}}$" /></a>
-, with 
+
+
 
 
 
