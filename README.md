@@ -188,16 +188,9 @@ The most simple elements, shown as above, could always immediately hit your mind
                
                
 -------------------             
-Just like the delay of the flight carrying my baggages, I And people tend to assimilate themselves into the new environment when starting their new journey, forgetting the importance and vitality of their inner past 
-
-
-
-
-
-
-
--------------
-以下是草稿：
+Just like the delay of the flight carrying my baggages, I have not finished this letter on time and carry it on my flight to London. And people tend to assimilate themselves into the new environment when starting their new journey, forgetting the importance and vitality of their inner past. Thus before I leave from jet lag and start my study at LSE in London, I finish this letter in my new rented flat.              
+           
+The most beautiful thing at this moment, when it rains outside, is to sit on my bed and rekindle the past, with a glazing defending against the London typical architect outside.  
 
 
 
@@ -205,7 +198,7 @@ Just like the delay of the flight carrying my baggages, I And people tend to ass
 
 I need some ending of the past as those people.  
 我需要一些告别，和我的专业，和我在SYSU的时光，和我曾经相当一名伟大物理学家的梦想。
-VR就像装了一个天眼在天上一样，往后余生，我只能飘着看自己的母校了，不再是剧中的角色。
+
 
 
 人是很容易害怕和恐惧的。我想把一些东西记录下来，其实目的就是为了让自己知道，过去的经历，过去认识的那么多厉害的人，过去的所有资源，其实都在给予我们力量。不要害怕。终将有一天，我们也要成为那些能给予很多人力量的人。 合上过去的笔记和厚厚的教科书，打印出来的涂涂画画的papers，扎好轧带，我把它们堆放在最深的柜子里。  
