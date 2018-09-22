@@ -183,23 +183,12 @@ between
 &nbsp; &nbsp; <a href="https://www.codecogs.com/eqnedit.php?latex=$R(&space;\theta,&space;\vec{n})&space;=&space;R&space;=&space;e^{-i&space;\theta&space;\vec{n}&space;\cdot&space;\vec{J}}$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$R(&space;\theta,&space;\vec{n})&space;=&space;R&space;=&space;e^{-i&space;\theta&space;\vec{n}&space;\cdot&space;\vec{J}}$" title="$R( \theta, \vec{n}) = R = e^{-i \theta \vec{n} \cdot \vec{J}}$" /></a>, where you may reduce the dimension describing a space, but you have to make another sacrifice that you should use a spinor rather than a vector to describe an element in this space.         
 
              
-The most simple elements, shown as above, could always immediately              
-       
+The most simple elements, shown as above, could always immediately hit your mind with your familiar feelings related to this interval of your career.                          
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+               
+               
+-------------------             
+Just like the delay of the flight carrying my baggages, I And people tend to assimilate themselves into the new environment when starting their new journey, forgetting the importance and vitality of their inner past 
 
 
 
