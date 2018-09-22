@@ -180,9 +180,10 @@ matrix with complex coefficients
 <a href="https://www.codecogs.com/eqnedit.php?latex=$\phi&space;:&space;SU(2)&space;\to&space;SO(3)$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$\phi&space;:&space;SU(2)&space;\to&space;SO(3)$" title="$\phi : SU(2) \to SO(3)$" /></a> 
 between 
 <a href="https://www.codecogs.com/eqnedit.php?latex=$A&space;=&space;exp^{-i\theta\overrightarrow{n}\cdot\overrightarrow{\sigma}/2}$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$A&space;=&space;exp^{-i\theta\overrightarrow{n}\cdot\overrightarrow{\sigma}/2}$" title="$A = exp^{-i\theta\overrightarrow{n}\cdot\overrightarrow{\sigma}/2}$" /></a> and             
-&nbsp; &nbsp; <a href="https://www.codecogs.com/eqnedit.php?latex=$R(&space;\theta,&space;\vec{n})&space;=&space;R&space;=&space;e^{-i&space;\theta&space;\vec{n}&space;\cdot&space;\vec{J}}$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$R(&space;\theta,&space;\vec{n})&space;=&space;R&space;=&space;e^{-i&space;\theta&space;\vec{n}&space;\cdot&space;\vec{J}}$" title="$R( \theta, \vec{n}) = R = e^{-i \theta \vec{n} \cdot \vec{J}}$" /></a>.        
+&nbsp; &nbsp; <a href="https://www.codecogs.com/eqnedit.php?latex=$R(&space;\theta,&space;\vec{n})&space;=&space;R&space;=&space;e^{-i&space;\theta&space;\vec{n}&space;\cdot&space;\vec{J}}$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$R(&space;\theta,&space;\vec{n})&space;=&space;R&space;=&space;e^{-i&space;\theta&space;\vec{n}&space;\cdot&space;\vec{J}}$" title="$R( \theta, \vec{n}) = R = e^{-i \theta \vec{n} \cdot \vec{J}}$" /></a>, where you may reduce the dimension describing a space, but you have to make another sacrifice that you should use a spinor rather than a vector to describe an element in this space.         
+
              
-The most simple elements, shown as above, could always immediately...先写到这里吧，还要收拾行李。            
+The most simple elements, shown as above, could always immediately              
        
 
 
