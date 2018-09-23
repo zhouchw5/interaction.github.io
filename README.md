@@ -190,7 +190,7 @@ The most simple elements, shown as above, could always immediately hit your mind
 -------------------             
 Just like the delay of the flight carrying my baggages, I have not finished this letter on time and carry it on my flight to London. And people tend to assimilate themselves into the new environment when starting their new journey, forgetting the importance and vitality of their inner past. Thus before I leave from jet lag and start my study at LSE in London, I finish this letter in my new rented flat.              
            
-The most beautiful thing at this moment, when it rains outside, is to sit on my bed and rekindle the past, with a glazing defending against the London typical architect outside. But this division would gradually disappear and I would live within London. I just wish a balance between my past and the new story, both of which would used to define the updated Zhou Mr.Chuwei.     
+The most beautiful thing at this moment, when it rains outside, is to sit on my bed and rekindle the past, with a glazing defending against the London typical architect outside. But this division would gradually disappear and I would live within London. I just wish a balance between my past and the new story, both of which would used to define the updated Zhou Mr.Chuwei. The uppdating and iterating process is hundreds of times more complicated as much as predicted. And as you know one's storage space is limited, thus I should filtrate some memory so as to alleviate my burden ahead.          
 
 
 
