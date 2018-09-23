@@ -192,7 +192,12 @@ Just like the delay of the flight carrying my baggages, I have not finished this
            
 The most beautiful thing at this moment, when it rains outside, is to sit on my bed and rekindle the past, with a glazing defending against the London typical architect outside. But this division would gradually disappear and I would live within London. I just wish a balance between my past and the new story, both of which would used to define the updated Zhou Mr.Chuwei. The uppdating and iterating process is hundreds of times more complicated as much as predicted. And as you know one's storage space is limited, thus I should filtrate some memory so as to alleviate my burden ahead. The distillate should be the flavour of physics, caring about the beauty of conciseness, like we always attempt to describe the mystery of the whole cosmos by using a simple equation in a pea size. A concise equation maybe grow from some elementary principles like the principle of stationary action, the conservation of probability flow, the wave-particle dualism, etc. And then we would make efforts to find some solutions or approximate solutions such that with the characteristics of these solutions we can attempt to understand the materials and motion. Our congnitive system has extended from the classic physics with macroscopic description of static and moving states, to the quantum mechanic theory with the uncertainty principle. Different spaces in different dimensions would have different representations related to the same story on the rotation, oscillation, or the macroscopic geodesic motion. The perturbation thinking would help us develop many stories like the random walk, the Gaussian distribution and the diffusion equation, via powerful Taylor series, which would help us shuttle through different spaces and representations...
             
-Soon I would turn into a new profession in mathematics and programming, in which I would also squeeze my spirit to explore in my new field to seize the same happiness when studying in physics, only with which can I feed myself in this boring world. Wish me a great journey in London, wish all of us a great prospect towards the unchanged ending.          
+Soon I would turn into a new profession in mathematics and programming, in which I would also squeeze my spirit to explore in my new field to seize the same happiness when studying in physics, only with which can I feed myself in this boring world. Wish me a great journey in London, wish all of us a great prospect towards the unchanged ending.             
+               
+                     
+Zhou Mr.Chuwei          
+Going gentle into that good night in London           
+
 
 
 
