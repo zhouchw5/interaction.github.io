@@ -190,7 +190,7 @@ The most simple elements, shown as above, could always immediately hit your mind
 -------------------             
 Just like the delay of the flight carrying my baggages, I have not finished this letter on time and carry it on my flight to London. And people tend to assimilate themselves into the new environment when starting their new journey, forgetting the importance and vitality of their inner past. Thus before I leave from jet lag and start my study at LSE in London, I finish this letter in my new rented flat.              
            
-The most beautiful thing at this moment, when it rains outside, is to sit on my bed and rekindle the past, with a glazing defending against the London typical architect outside. But this division would gradually disappear and I would live within London. I just wish a balance between my past and the new story, both of which would used to define the updated Zhou Mr.Chuwei. The uppdating and iterating process is hundreds of times more complicated as much as predicted. And as you know one's storage space is limited, thus I should filtrate some memory so as to alleviate my burden ahead. The distillate should be the            
+The most beautiful thing at this moment, when it rains outside, is to sit on my bed and rekindle the past, with a glazing defending against the London typical architect outside. But this division would gradually disappear and I would live within London. I just wish a balance between my past and the new story, both of which would used to define the updated Zhou Mr.Chuwei. The uppdating and iterating process is hundreds of times more complicated as much as predicted. And as you know one's storage space is limited, thus I should filtrate some memory so as to alleviate my burden ahead. The distillate should be the flavour of physics, caring about the beauty of conciseness, like we always attempt to describe the mystery of the whole cosmos by using a simple equation in a pea size.                 
 
 
 
@@ -202,5 +202,6 @@ I need some ending of the past as those people.
 
 
 人是很容易害怕和恐惧的。我想把一些东西记录下来，其实目的就是为了让自己知道，过去的经历，过去认识的那么多厉害的人，过去的所有资源，其实都在给予我们力量。不要害怕。终将有一天，我们也要成为那些能给予很多人力量的人。 合上过去的笔记和厚厚的教科书，打印出来的涂涂画画的papers，扎好轧带，我把它们堆放在最深的柜子里。  
-Physics 注重 the beauty of conciseness. 我们总是祈求一个宇宙的奥秘，用一个豌豆般大小的方程就能够描述了。我们一般是从一些基本的原理/性质出发，比如最小作用量原理与变分法 the principle of stationary action，概率流守恒，波粒二象性等，会得出一些简洁的方程，我们寻求这些方程的解或近似解，通过解的性质了解物质与运动。我们从静止与运动鲜明的经典物理到具有不确定性原理的量子理论，different spaces in different dimensions would have different respresentations related to the same story on The rotation, 振荡, 抑或宏观的测地线运. 而描述这些进程的语言是数学。其实这个基本的思考过程和物理的演绎方式，就构成了我的基本世界观。 
+
+我们一般是从一些基本的原理/性质出发，比如最小作用量原理与变分法 the principle of stationary action，概率流守恒，波粒二象性等，会得出一些简洁的方程，我们寻求这些方程的解或近似解，通过解的性质了解物质与运动。我们从静止与运动鲜明的经典物理到具有不确定性原理的量子理论，different spaces in different dimensions would have different respresentations related to the same story on The rotation, 振荡, 抑或宏观的测地线运. 而描述这些进程的语言是数学。其实这个基本的思考过程和物理的演绎方式，就构成了我的基本世界观。 
 
