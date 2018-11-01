@@ -1,6 +1,12 @@
 # Quick Winning_Chapter1_in London      
 
-Almost one and a half months have passed since I landed in London. Study and working prospects have already become the theme before our settling down. Some transferable habits I gained from Huawei Technologies helped categorize my life, like quick winning and iterating, information management, etc.           
+Almost one and a half months have passed since I landed in London. Study and working prospects have already become the theme before our settling down. Some transferable habits I gained from Huawei Technologies helped categorize my life, like quick winning and iterating, information management, etc. In spite of the crowd schedule, I should spare some time to update my homepage because I love writing just like coding with time. Life's like a binary tree, keep growing and experiencing.                    
+                       
+                       
+Yours,                
+Chuwei Zhou                         
+
+
           
           
 
