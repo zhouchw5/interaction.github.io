@@ -1,26 +1,14 @@
-# Quick Winning_Chapter1_in London      
+# Some Interesting Discussions with My Classmates      
 
-Almost one and a half months have passed since I landed in London. Study and working prospects have already become the theme before our settling down. Some transferable habits I gained from Huawei Technologies helped categorize my life, like quick winning and iterating, information management, etc. In spite of the crowd schedule, I should spare some time to update my homepage because I love writing just like coding with time. Life's like a binary tree, keep growing and experiencing.                    
-                       
-                       
-Yours,                
-Chuwei Zhou                         
+You know that since I was a pupil I have got a habits enjoying the moments when others asked me questions. Because it is the best way to refresh and consolidate what you have learned and excavate something new about guys' thingking patterns.        
+           
+1. When finding an optimal strategy in a game theory problem with no pure strategical solution, we can firsty eliminate some combinations of strategies by using the dominance, and then using the graph techniques to figure out the 
 
 
-          
-          
+2. In the first homework for the course Fundemantals of Operations Research & Analytics, a boy asked me how to solve the last question by verifying whether the dual problem of the given infeasible primal is infeasible or unbounded when given some special conditions. I just showed him the equivalence between the undefined/inactive constraints and the corresponding zero dual variables when using the standard form of dual-primal. 
+                          
+                          
 
-I tend to make myself understood briefly, rather than 100%-description in some previous letters. Glancing at some memorable scenarios in the past month, can help refresh my daily life state, like a non-Markovian process. Taking the time sequence:           
-
-![Flying](https://github.com/zhouchw5/interaction.github.io/blob/Life-in-UK/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20181101185617.jpg)
-&nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Flying past Helsinki Airport in Finland and landing in Heathrow London                
-                  
-                   
-                   
-
-
-Hopefully I can be an iron 'Olympian' mentally and physically. But as far as I'm concerned, the moment when a man seems the most powerful is not the time when he pretends to be strong, but those when he start attempting to be weak and soft.  
-I love writing, just like coding with time. Life's like a binary tree, keep growing and experiencing. 
 
 
    
