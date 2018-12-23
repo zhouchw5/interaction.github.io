@@ -7,7 +7,7 @@ The trade war has erupted since I was still working in Huawei, for which it was 
                 
 As the biggest Chinese telecoms giant, Huawei has been the focus of international scrutiny, not only due to the series of events closely related to US, but also with several countries raising security concerns about its products. The most significant fear raised externally is whether China is using Huawei as a proxy so it can spy on rival nations and scoop up useful information, even some of which would overlap with some security issues. More specifically, as Huawei is now the second biggest smartphone-maker in the world, critics fear that the Chinese government could order Huawei to modify its devices to help hack attacks, eavesdrop on conversations or gain high-level access to sensitive networks. Besides Australia and New Zealand mentioned above, some other countries have also taken action, like Canada is carrying out a security review of Huawei's products, and UK service provider BT is removing Huawei kit from the core of its 5G network. More information can be seen in [What's going on with Huawei?](https://www.bbc.co.uk/news/technology-46483337)                  
                      
-                     
+As a type of fortune, I live in London currently so that I can learn more about                      
              
                              
                    
