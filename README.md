@@ -3,7 +3,7 @@ We know that in the first week of this December, two bad news hit the tranquilit
                            
 Of course, sad and shocked for the bad news, our tiny planet lost a great physicist, an interesting soul, I know that some of my fellows in SYSU and the International Division of Theoretical Physics would suffered more from the emotional loss. Because their tutor was one of Shoucheng's students. But in terms of the more biased intersection with mine, I should discuss more about the other event, the arrestment to the chief financial officer. Actually this sub-event can not be distracted from some backgrounds, like the trade war between China and US, and the current 5G mobile networks progress around the world.                   
                  
-The trade war has erupted since I was still working in Huawei, for which it was the first time that some global financial or economic events had some influences on my daily schedule. It was not bad to feel involved sometimes. But 中兴, would definitely disgree with me.                         
+The trade war has erupted since I was still working in Huawei, for which it was the first time that some global financial or economic events had some influences on my daily schedule. It was not bad to feel involved sometimes. But ZTE would definitely disagree with me because it fell in a serious dilemma after US's law prohibiting export of some vital American-made components.                          
                              
                    
 Yours,          
