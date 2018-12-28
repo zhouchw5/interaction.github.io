@@ -19,7 +19,11 @@ which is exactly the guys felt confused with.
 
 ![chatting](https://github.com/zhouchw5/interaction.github.io/blob/discussion-with-my-classmates/chatting%20record.png)
 
-4. In the first homework for the course Fundemantals of Operations Research & Analytics, a boy asked me how to solve the last question by verifying whether the dual problem of the given infeasible primal is infeasible or unbounded when given some special conditions. I just showed him the equivalence between the undefined/inactive constraints and the corresponding zero dual variables when using the standard form of dual-primal.                               
+4. In the first homework for the course Fundemantals of Operations Research & Analytics, a boy asked me how to solve the last question by verifying whether the dual problem of the given infeasible primal is infeasible or unbounded when given some special conditions. I just showed him the equivalence between the undefined/inactive constraints and the corresponding zero dual variables when using the standard form of dual-primal.                              
+                       
+5. Considering 
+<a href="https://www.codecogs.com/eqnedit.php?latex=$J\subset&space;\left&space;\{&space;1,...,p&space;\right&space;\}$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$J\subset&space;\left&space;\{&space;1,...,p&space;\right&space;\}$" title="$J\subset \left \{ 1,...,p \right \}$" /></a> 
+be a subset of indices for the regressors, 
                    
 Yours,          
 Chuwei Zhou               
