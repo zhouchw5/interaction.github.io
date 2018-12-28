@@ -31,7 +31,11 @@ only, the residual sum of squares is
 into 
 <a href="https://www.codecogs.com/eqnedit.php?latex=$J$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$J$" title="$J$" /></a>, 
 <a href="https://www.codecogs.com/eqnedit.php?latex=$R\left&space;(&space;J&space;\right&space;)$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$R\left&space;(&space;J&space;\right&space;)$" title="$R\left ( J \right )$" /></a> 
-would only decrease (non-increasing). In my opinion it's quite straight forward. 
+would only decrease (non-increasing). In my opinion it's quite straight forward. When we consider all the variables x, the so-called regressors, the selection of 
+<a href="https://www.codecogs.com/eqnedit.php?latex=$\widehat{\beta&space;}$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$\widehat{\beta&space;}$" title="$\widehat{\beta }$" /></a> 
+would minimize the residual sum of the square. Omitting some regressors (only regressing in the sub-set 
+<a href="https://www.codecogs.com/eqnedit.php?latex=$\left&space;\{&space;1,...,p&space;\right&space;\}$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$\left&space;\{&space;1,...,p&space;\right&space;\}$" title="$\left \{ 1,...,p \right \}$" /></a>
+) is amount to setting the corresponding coefficients 
 
 
 
