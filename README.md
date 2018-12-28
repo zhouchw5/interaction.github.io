@@ -39,6 +39,11 @@ would minimize the residual sum of the square. Omitting some regressors (only re
 <a href="https://www.codecogs.com/eqnedit.php?latex=$\widehat{\beta&space;}_i$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$\widehat{\beta&space;}_i$" title="$\widehat{\beta }_i$" /></a> 
 equal to zero, which is also one of the probable element of the selection set for the original 
 <a href="https://www.codecogs.com/eqnedit.php?latex=$\widehat{\beta&space;}$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$\widehat{\beta&space;}$" title="$\widehat{\beta }$" /></a>. 
+And based on the minization optimality, all the probable selections of 
+<a href="https://www.codecogs.com/eqnedit.php?latex=$\widehat{\beta&space;}$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$\widehat{\beta&space;}$" title="$\widehat{\beta }$" /></a> 
+would have a residual sum of square greater or equal to that corresponding to the optimal selection of the original 
+<a href="https://www.codecogs.com/eqnedit.php?latex=$\widehat{\beta&space;}$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$\widehat{\beta&space;}$" title="$\widehat{\beta }$" /></a>. 
+
 
 
 
