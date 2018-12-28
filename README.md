@@ -26,7 +26,14 @@ which is exactly the guys felt confused with.
 be a subset of indices for the regressors, if we regress y on 
 <a href="https://www.codecogs.com/eqnedit.php?latex=$X_{J}$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$X_{J}$" title="$X_{J}$" /></a> 
 only, the residual sum of squares is 
-<a href="https://www.codecogs.com/eqnedit.php?latex=$R_{J}=\left&space;\|&space;\widehat{y}\left&space;(&space;J&space;\right&space;)&space;-y\right&space;\|=\sum_{i=1}^{n}\left&space;\{&space;\widehat{y}_{i}\left&space;(&space;J&space;\right&space;)&space;-y_{i}\right&space;\}^2$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$R_{J}=\left&space;\|&space;\widehat{y}\left&space;(&space;J&space;\right&space;)&space;-y\right&space;\|=\sum_{i=1}^{n}\left&space;\{&space;\widehat{y}_{i}\left&space;(&space;J&space;\right&space;)&space;-y_{i}\right&space;\}^2$" title="$R_{J}=\left \| \widehat{y}\left ( J \right ) -y\right \|=\sum_{i=1}^{n}\left \{ \widehat{y}_{i}\left ( J \right ) -y_{i}\right \}^2$" /></a>. When we add any element in           
+<a href="https://www.codecogs.com/eqnedit.php?latex=$R_{J}=\left&space;\|&space;\widehat{y}\left&space;(&space;J&space;\right&space;)&space;-y\right&space;\|=\sum_{i=1}^{n}\left&space;\{&space;\widehat{y}_{i}\left&space;(&space;J&space;\right&space;)&space;-y_{i}\right&space;\}^2$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$R_{J}=\left&space;\|&space;\widehat{y}\left&space;(&space;J&space;\right&space;)&space;-y\right&space;\|=\sum_{i=1}^{n}\left&space;\{&space;\widehat{y}_{i}\left&space;(&space;J&space;\right&space;)&space;-y_{i}\right&space;\}^2$" title="$R_{J}=\left \| \widehat{y}\left ( J \right ) -y\right \|=\sum_{i=1}^{n}\left \{ \widehat{y}_{i}\left ( J \right ) -y_{i}\right \}^2$" /></a>. When we add any element in 
+<a href="https://www.codecogs.com/eqnedit.php?latex=$\left&space;\{&space;1,..,p&space;\right&space;\}-J$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$\left&space;\{&space;1,..,p&space;\right&space;\}-J$" title="$\left \{ 1,..,p \right \}-J$" /></a> 
+into 
+<a href="https://www.codecogs.com/eqnedit.php?latex=$J$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$J$" title="$J$" /></a>, 
+<a href="https://www.codecogs.com/eqnedit.php?latex=$R\left&space;(&space;J&space;\right&space;)$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$R\left&space;(&space;J&space;\right&space;)$" title="$R\left ( J \right )$" /></a> 
+would only decrease (non-increasing). In my opinion it's quite straight forward. 
+
+
 
                          
                          
