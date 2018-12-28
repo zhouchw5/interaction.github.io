@@ -36,6 +36,9 @@ would only decrease (non-increasing). In my opinion it's quite straight forward.
 would minimize the residual sum of the square. Omitting some regressors (only regressing in the sub-set 
 <a href="https://www.codecogs.com/eqnedit.php?latex=$\left&space;\{&space;1,...,p&space;\right&space;\}$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$\left&space;\{&space;1,...,p&space;\right&space;\}$" title="$\left \{ 1,...,p \right \}$" /></a>
 ) is amount to setting the corresponding coefficients 
+<a href="https://www.codecogs.com/eqnedit.php?latex=$\widehat{\beta&space;}_i$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$\widehat{\beta&space;}_i$" title="$\widehat{\beta }_i$" /></a> 
+equal to zero, which is also one of the probable element of the selection set for the original 
+<a href="https://www.codecogs.com/eqnedit.php?latex=$\widehat{\beta&space;}$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$\widehat{\beta&space;}$" title="$\widehat{\beta }$" /></a>. 
 
 
 
