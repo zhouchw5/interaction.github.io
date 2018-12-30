@@ -9,10 +9,10 @@ People tend to be more sensitive with the colorful and motional objects than tho
                        
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 ![the beauty](https://github.com/zhouchw5/interaction.github.io/blob/How-to-categorise-my-life/the%20beauty.png)                 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  A famous TV cooking show in Hongkong, which often shares my dinner time             
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  A famous TV cooking show in Hongkong, which often shares my dinner time              
                          
                          
-Though I have blamed myself for several times, I still tend to 
+Though I have blamed myself for several times, I still tend to kill my time with some online shows unintentionally, with some easy happiness as payoffs.   
 I hate everything I have got familiar with, which made my life more static. But the feeling of boredom is also an inevitable result of the evolution, because the feeling of boredom is a lateral reflection of our learning ability.               
                
    
