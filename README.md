@@ -12,7 +12,7 @@ People tend to be more sensitive with the colorful and motional objects than tho
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  A famous TV cooking show in Hongkong, which often shares my dinner time              
                          
                          
-Though I have blamed myself for several times, I still tend to kill my time with some online shows unintentionally, with some easy happiness as payoffs. It seems that there still exists a long journey that stretches out ahead for me reach my preinstalled state, in which I looks like a neutral and transparent      
+Though I have blamed myself for several times, I still tend to kill my time with some online shows unintentionally, with some easy happiness as payoffs. It seems that there still exists a long journey that stretches out ahead for me reach my preinstalled state, in which I looks like a neutral and transparent container of all the stories or phenomenons hitting reaching my every single day, in which I give infinitesimally insignificant emotional reaction to the 'noises' in my life, in which I donnot need some different days in different cities or countries to refresh myself, to digest my feeling of boredom.                    
 I hate everything I have got familiar with, which made my life more static. But the feeling of boredom is also an inevitable result of the evolution, because the feeling of boredom is a lateral reflection of our learning ability.               
                
    
