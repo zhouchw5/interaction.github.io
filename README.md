@@ -16,7 +16,7 @@ Though I have blamed myself for several times, I still tend to kill my time with
                   
 It seems not that easy to do the right things. Because various inherent characteristics (exemplified above) would drag us back to the large group of people, enjoying the direct and easy happiness together, getting emotional resonance with fictitious products/applications online. I respect these groupments and even encourage most of us to live in these ways. But I have gradually realized that I have choosed another option, to stay in a more rational box observing the past and future. This box would be destined for being attacked because the total development of science and business tends to create more convenience and comfortable sensations for human beings, based on our human nature. Hence if you wish to keep living in the box, you should learn how to overcome the social inertia.                 
                  
-Despite it seems deceiving myself within my imagination, I can always feel some types of inconspicuous but powerful missions orientating a special prospect for me.                   
+Despite it seems deceiving myself within my imagination, I can always feel some types of inconspicuous but powerful missions orientating a special prospect for me. One basic rule is to categorize the daily life, even though it sounds monotonous. The main variable we use for classification is the 'time'. The usage of the time can be divided into                    
                        
                        
                
