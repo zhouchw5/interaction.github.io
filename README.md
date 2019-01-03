@@ -9,7 +9,7 @@ The Chang'e-4 probe has already sent back its first pictures from the surface, w
 There have been numerous missions to the Moon in recent years, but the vast majority have been to orbit, fly by or impact. The last crewed landing was Apollo 17 in 1972.              
                         
 **The Distinctiveness of this Landing**                    
-
+This is the first time any craft has landed on the unexplored and rugged far side, which is not visible fro the Earth due to "tidal locking".  
  
             
          
