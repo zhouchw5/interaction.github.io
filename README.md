@@ -1,5 +1,5 @@
 # Successful Landing on the Far Side of the Moon                  
-People always insist on some conventional wisdoms even they make no sense in many cases. One simple algabric conclusion held by the crowd is that if one guy get up one hour earlier each day, with one month's passing he/she would obtain the extra time of more than one day as payoff. But people may ignore some facts like if I sleep one-hour longer, maybe I can finish the daily assignments more efficient with the 3-hour working 工作量 finished in one hour. It seems that people often underestimate the value of relaxing.                 
+[Catching up with the information from the BBC](https://www.bbc.co.uk/news/science-environment-46724727), at 10:26 Beijing time (02:26 GMT, 3rd Jan., 2019), the un-crewed Chang'e-4 probe touched down in the South Pole-Aitken Basin, state media said. 
  
             
 I changed my mind staying in London, and decided a more than one hour's train taking me back to Swindon to spend my christmas holidays with my relatives.                        
