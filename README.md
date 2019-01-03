@@ -13,8 +13,8 @@ This is the first time any craft has landed on the unexplored and rugged far sid
                 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  ![different side of the moon](https://github.com/zhouchw5/interaction.github.io/blob/China-Chang%E2%80%98e-4-spacecraft/different%20side%20of%20the%20moon.png)           
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; The near side (L) and far side (R) of the Moon have some key differences, credited to NASA                
- 
-            
+              
+The event responsible for carving out the South Pole-Aitken (SPA) Basin is thought to have been so powerful, it punched through the Moon's crust and down into the zone called the mantle.                    
          
 
 
