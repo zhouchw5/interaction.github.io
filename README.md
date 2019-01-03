@@ -6,7 +6,10 @@ The Chang'e-4 probe has already sent back its first pictures from the surface, w
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;  &nbsp;   &nbsp; &nbsp; &nbsp;  &nbsp;  &nbsp; &nbsp; &nbsp;  &nbsp;All pictures and data have to be bounced off a separate satellite             
 
 **Historical Background of the Moon Exploration**                  
-There have been numerous missions to the Moon in recent years, but the vast majority have been to orbit, fly by or impact. The last crewed landing was Apollo 17 in 1972.                 
+There have been numerous missions to the Moon in recent years, but the vast majority have been to orbit, fly by or impact. The last crewed landing was Apollo 17 in 1972.              
+                        
+**The Distinctiveness of this Landing**                    
+
  
             
          
