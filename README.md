@@ -18,7 +18,10 @@ This is the first time any craft has landed on the unexplored and rugged far sid
               
 The event responsible for carving out the South Pole-Aitken (SPA) Basin is thought to have been so powerful, it punched through the Moon's crust and down into the zone called the mantle. Researchers will want to train the instruments on any mantle rocks exposed by the calamity.              
                 
-The science team also hopes to study parts of the sheet of melted rock that would have filled the newly formed South Pole-Aitken Basin. A third objective is to study the far side regolith, the broken up rocks and dust that make up the surface, which will help us understand the formation of the Moon.                               
+The science team also hopes to study parts of the sheet of melted rock that would have filled the newly formed South Pole-Aitken Basin. A third objective is to study the far side regolith, the broken up rocks and dust that make up the surface, which will help us understand the formation of the Moon.                 
+                         
+**More Information about this Mission**                         
+
          
 
 
