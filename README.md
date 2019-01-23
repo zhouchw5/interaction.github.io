@@ -1,7 +1,8 @@
 # Meditech Surgical                                      
 When studying a case in supply chain management, the well-informed pattern can be shown as:            
 - Basic products composition/features (vital components, manufacturing period, mainstream models, etc)               
-- BOM (Bill of Materials),              
+- BOM (Bill of Materials), Relations (Parent-Son items, Substitution Relation) with different items in the BOM                  
+- 
 
 
 Yours,          
