@@ -14,7 +14,7 @@ When studying a case in supply chain management, the well-informed pattern can b
 - Integrated Product Development and Lifecycle Management of Products             
 - The Entire Industry Development and Ecology                
 
-
+ 
 
 Yours,          
 Chuwei Zhou               
