@@ -10,7 +10,7 @@ When studying a case in supply chain management, the well-informed pattern can b
 - Contract coordinators adjustments (front-line interaction with clients)                  
 
 **'Business Thinking'**              
-- Planning/Management Strategies           
+- Pain Points, Emergency Reaction, Planning/Management Strategies           
 - Integrated Product Development and Lifecycle Management of Products             
 - The Entire Industry Development and Ecology                
                                
