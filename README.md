@@ -6,7 +6,9 @@ You know that since I was a pupil I have got a habits enjoying the moments when 
 <a href="https://www.codecogs.com/eqnedit.php?latex=C_{m&plus;c}^m=\binom{m&plus;c}{m}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?C_{m&plus;c}^m=\binom{m&plus;c}{m}" title="C_{m+c}^m=\binom{m+c}{m}" /></a>
  of different types of bins in terms of the small-item cases for Bin Packing. We cannot directly encode the different types of bins to map all these types into <a href="https://www.codecogs.com/eqnedit.php?latex=C_{m&plus;c}^m=\binom{m&plus;c}{m}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?C_{m&plus;c}^m=\binom{m&plus;c}{m}" title="C_{m+c}^m=\binom{m+c}{m}" /></a> 
 different formulas. Actually we would have two inequalities for enlarging the formula to reach this upper bound for the number of bin types. After explaining to my good friend Sunayani, I just structure the derivation shown as below:                   
-
+![BinPacking](https://github.com/zhouchw5/interaction.github.io/blob/discussion-with-my-classmates/BinPacking.png)             
+                          
+                          
  
                        
                        
