@@ -4,7 +4,11 @@ You know that since I was a pupil I have got a habits enjoying the moments when 
                
 1. Updated on 13th Feb., 2019: I was not the only isolated guy that thought Dr.Batu had stolen some critical steps in explaining the number 
 <a href="https://www.codecogs.com/eqnedit.php?latex=C_{m&plus;c}^m=\binom{m&plus;c}{m}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?C_{m&plus;c}^m=\binom{m&plus;c}{m}" title="C_{m+c}^m=\binom{m+c}{m}" /></a>
- of different types of bins in terms of the small-item cases for Bin Packing.                                  
+ of different types of bins in terms of the small-item cases for Bin Packing. We cannot directly encode the different types of bins to map all these types into <a href="https://www.codecogs.com/eqnedit.php?latex=C_{m&plus;c}^m=\binom{m&plus;c}{m}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?C_{m&plus;c}^m=\binom{m&plus;c}{m}" title="C_{m+c}^m=\binom{m+c}{m}" /></a> 
+different formulas.              
+ 
+                       
+                       
                     
 2. Updated on 15th Jan., 2019: Today when discussing how to rely on solvable decision problems to solve the original problem, we take the path detection between two vertices in a graph as an example. A decision problem in this example can be notated with the instances (G, u, v, k), with the solution "Yes(1)" if the shortest path from u to v in the graph G has the length less or equal to the integer k, otherwise the solution "No(0)". Actually we have two types of methods, one is to focus on the vertices u and v, the other is to consider the sub-set of the graph iteratively.                
                  
