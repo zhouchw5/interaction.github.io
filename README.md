@@ -74,7 +74,7 @@ would have a residual sum of square greater or equal to that corresponding to th
 <a href="https://www.codecogs.com/eqnedit.php?latex=$\widehat{\beta&space;}$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$\widehat{\beta&space;}$" title="$\widehat{\beta }$" /></a>. That's why the residual sum of square would always decrease when we add more regressors.          
                           
                        
-10. One day we attended the workshop held by Satalia, an active startup to leverage the true potential of AI.                       
+10. One day we attended the workshop held by Satalia, an active startup to leverage the true potential of AI. During the workshop most of my interest was attached to the exploration on people's thinking pattern like                         
 
 
 
