@@ -71,7 +71,10 @@ equal to zero, which is also one of the probable element of the selection set fo
 And based on the minization optimality, all the probable selections of 
 <a href="https://www.codecogs.com/eqnedit.php?latex=$\widehat{\beta&space;}$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$\widehat{\beta&space;}$" title="$\widehat{\beta }$" /></a> 
 would have a residual sum of square greater or equal to that corresponding to the optimal selection of the original 
-<a href="https://www.codecogs.com/eqnedit.php?latex=$\widehat{\beta&space;}$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$\widehat{\beta&space;}$" title="$\widehat{\beta }$" /></a>. That's why the residual sum of square would always decrease when we add more regressors. 
+<a href="https://www.codecogs.com/eqnedit.php?latex=$\widehat{\beta&space;}$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$\widehat{\beta&space;}$" title="$\widehat{\beta }$" /></a>. That's why the residual sum of square would always decrease when we add more regressors.          
+                          
+                       
+10. One day we attended the workshop held by Satalia, an active startup to leverage the true potential of AI.                       
 
 
 
