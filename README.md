@@ -79,7 +79,7 @@ And based on the minization optimality, all the probable selections of
 would have a residual sum of square greater or equal to that corresponding to the optimal selection of the original 
 <a href="https://www.codecogs.com/eqnedit.php?latex=$\widehat{\beta&space;}$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$\widehat{\beta&space;}$" title="$\widehat{\beta }$" /></a>. That's why the residual sum of square would always decrease when we add more regressors.          
                                            
-11. What is the best way to deal with your exhausted states? [what made you fall in love with London?](https://www.quora.com/What-made-you-fall-in-love-with-London-1).                                   
+11. What is the best way to deal with your exhausted states? Whether we still have potential to move one step further when feeling extremely out of energy. [what made you fall in love with London?](https://www.quora.com/What-made-you-fall-in-love-with-London-1).                                   
 
 
 12. One day we attended the workshop held by Satalia, an active startup to leverage the true potential of AI. During the workshop, most of my interest was attached to the exploration on people's thinking pattern.                                         
