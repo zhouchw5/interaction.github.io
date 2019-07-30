@@ -1,5 +1,5 @@
-# The            
-With the end of July coming to the past, the progress of my research project,             
+# The Ending Phase of July                                    
+With the end of this July coming to the past, the progress of my research project cooperating with a Trinidad company ,             
 I need to add some regular variables to my life, though some painful but inevitable expectations would challenge my trials in the very beginning.                       
 
           
